@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#11241a"/><stop offset="0.55" stop-color="#0a0a0a"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#e8c08a"/><stop offset="1" stop-color="#d4a574"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="100" cy="96" r="20" fill="url(#gold)"/>
+  <text x="140" y="106" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#d4a574" letter-spacing="3">TORONTOHEALTH</text>
+  <text x="100" y="300" font-family="Arial, sans-serif" font-size="74" font-weight="800" fill="#ffffff">Vet your peptide</text>
+  <text x="100" y="386" font-family="Arial, sans-serif" font-size="74" font-weight="800" fill="url(#gold)">vendor before you buy.</text>
+  <text x="100" y="470" font-family="Arial, sans-serif" font-size="34" fill="#9fb0a2">How testing really works · how to spot a fake lab · Canada</text>
+  <rect x="100" y="520" width="430" height="64" rx="14" fill="#0f5132"/>
+  <text x="130" y="562" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#ffffff">Free 60-second vendor check</text>
+</svg>

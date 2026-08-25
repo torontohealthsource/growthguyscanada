@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<!--
+  TorontoHealth resource HUB — the OWNED canonical home. Deploys free to GitHub Pages.
+  Strategy (AUTO_SURFACE_MAP.md): this is the anti-fragile core. Every syndicated post points its canonical_url back here.
+  [PLACEHOLDER]: after Pierre gives his GitHub username, find-replace growthguyscanada.ca with the real URL (sitemap + canonical tags).
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>TorontoHealth — Vet Your Peptide Vendor Before You Buy (Canada)</title>
+<meta name="description" content="Free, no-nonsense guides on how peptide testing actually works, how to read a COA, and how to vet a vendor in Canada — plus a verified discount. Educational only.">
+<link rel="canonical" href="https://growthguyscanada.ca/">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Organization","name":"TorontoHealth","url":"https://growthguyscanada.ca/","description":"Educational guides on peptide testing transparency and vendor vetting in Canada.","sameAs":["https://torontohealthsource.blogspot.com/","https://www.youtube.com/@toronto.health"]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":"TorontoHealth","url":"https://growthguyscanada.ca/"}
+</script>
+<meta name="google-site-verification" content="krWU6JfIrZ5v7qP7Te0VdX4nCUzBMdfn0Lh23_-xLkM" />
+<meta property="og:title" content="TorontoHealth — Vet Your Peptide Vendor Before You Buy">
+<meta property="og:description" content="How peptide testing really works + how to spot a fake lab. Free 60-second vendor check.">
+<meta property="og:type" content="website">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:url" content="https://growthguyscanada.ca/">
+<meta property="og:image" content="https://growthguyscanada.ca/og.svg">
+<meta property="og:site_name" content="TorontoHealth">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="TorontoHealth — Vet Your Peptide Vendor Before You Buy">
+<meta name="twitter:description" content="How peptide testing really works + how to spot a fake lab. Free 60-second vendor check.">
+<meta name="twitter:image" content="https://growthguyscanada.ca/og.svg">
+<style>
+  :root{--emerald:#0f5132;--emerald-l:#1a7a4c;--gold:#d4a574;--gold-b:#e8c08a;--bg:#0a0a0a;--card:#121512;--line:#243024;--text:#eef2ee;--muted:#9fb0a2}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 700px at 50% -10%,#11241a 0%,var(--bg) 55%);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.6}
+  .wrap{max-width:860px;margin:0 auto;padding:0 18px}
+  nav{display:flex;align-items:center;justify-content:space-between;padding:18px 0}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:700;color:var(--gold);letter-spacing:.5px}
+  .brand .dot{width:12px;height:12px;border-radius:50%;background:linear-gradient(135deg,var(--emerald-l),var(--gold))}
+  nav a{color:var(--muted);text-decoration:none;margin-left:18px;font-size:.92rem}
+  nav a:hover{color:var(--gold-b)}
+  .hero{text-align:center;padding:48px 0 30px}
+  .hero h1{font-size:2.5rem;line-height:1.2;background:linear-gradient(90deg,#fff,var(--gold-b));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .hero p{color:var(--muted);max-width:600px;margin:14px auto 0;font-size:1.08rem}
+  .cta{display:inline-block;margin-top:24px;background:linear-gradient(135deg,var(--emerald),var(--emerald-l));color:#fff;text-decoration:none;
+    padding:15px 26px;border-radius:12px;font-weight:700;font-size:1.05rem;transition:.15s}
+  .cta:hover{filter:brightness(1.12);transform:translateY(-1px)}
+  .cta.gold{background:linear-gradient(135deg,#b9883f,var(--gold));margin-left:10px}
+  .codebar{background:#0e1b12;border:1px solid var(--emerald-l);border-radius:14px;padding:18px;text-align:center;margin:30px 0}
+  .codebar .lbl{color:var(--muted);font-size:.85rem}
+  .codebar b{display:block;color:var(--gold-b);font-size:1.8rem;letter-spacing:3px;margin:6px 0}
+  .codebar .terms{color:var(--muted);font-size:.82rem}
+  h2{font-size:1.5rem;margin:38px 0 6px}
+  .sub{color:var(--muted);margin-bottom:18px}
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:20px;transition:.15s;text-decoration:none;color:var(--text);display:block}
+  .card:hover{border-color:var(--gold);transform:translateY(-2px)}
+  .card .k{color:var(--gold);font-size:.78rem;letter-spacing:1.5px;text-transform:uppercase}
+  .card h3{font-size:1.12rem;margin:8px 0}
+  .card p{color:var(--muted);font-size:.92rem}
+  .email{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:26px;text-align:center;margin:40px 0}
+  .email input{background:#0e120e;border:1px solid var(--line);color:#fff;padding:13px 15px;border-radius:10px;font-size:1rem;width:min(320px,80%)}
+  .email button{background:linear-gradient(135deg,var(--emerald),var(--emerald-l));color:#fff;border:none;padding:13px 22px;border-radius:10px;font-weight:700;cursor:pointer;margin-left:8px}
+  footer{border-top:1px solid var(--line);margin-top:40px;padding:24px 0 50px;color:var(--muted);font-size:.8rem;text-align:center;line-height:1.6}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav>
+    <span class="brand"><span class="dot"></span>TORONTOHEALTH</span>
+    <div><a href="/articles/how-to-read-a-peptide-coa.html">Read a COA</a><a href="/articles/growth-guys-discount-code.html">Discount</a><a href="/vendor-quiz.html">Vendor check</a><a href="/reconstitution-calculator.html">Calculator</a><a href="/how-we-verify.html">How we verify</a><a href="/editorial-policy.html">Editorial policy</a></div>
+  </nav>
+
+  <header class="hero">
+    <h1>Don't buy peptides until you've vetted the vendor.</h1>
+    <p>Plain-English guides on how testing actually works, how to read a Certificate of Analysis, and how to spot a fake lab — built for buyers in Canada. No hype, no health claims, just what to check.</p>
+    <div>
+      <a class="cta" href="/vendor-quiz.html">🧪 Free 60-second vendor check</a>
+      <a class="cta gold" href="https://growthguys.coupons">See the verified vendor →</a>
+    </div>
+  </header>
+
+  <div class="codebar">
+    <span class="lbl">Verified vendor · independent lab testing · save 10%</span>
+    <b>HEALTHYLIFE10</b>
+    <span class="terms">Code applies 10% off at checkout · verified monthly</span>
+  </div>
+
+  <h2>Start here — the guides</h2>
+  <div class="sub">The three things that separate a vendor worth trusting from one grading its own homework.</div>
+  <div class="cards">
+    <a class="card" href="/articles/growth-guys-retatrutide-reddit-reviews.html">
+      <span class="k">Reddit</span><h3>Retatrutide reviews, the Reddit read</h3>
+      <p>What Canadian peptide communities actually say about ordering retatrutide from Growth Guys — batch consistency, whether the code holds, and the recurring complaint.</p></a>
+    <a class="card" href="/articles/health-canada-peptide-crackdown-2026-buying-safely.html">
+      <span class="k">Safety</span><h3>Is it safe to buy peptides online in Canada?</h3>
+      <p>What&#x27;s legal, what Health Canada flagged in 2026, and the exact checklist to tell a compliant Canadian peptide source from a risky one.</p></a>
+    <a class="card" href="/articles/growth-guys-hgh-code.html">
+      <span class="k">Codes</span><h3>The HGH code</h3>
+      <p>HGH kits are the priciest items, so the flat 10% is the biggest dollar discount — a $430 kit to $387, plus automatic free shipping. Real math and the checks that matter.</p></a>
+    <a class="card" href="/articles/growth-guys-code-ai-overview.html">
+      <span class="k">Codes</span><h3>What Google's AI Overview says</h3>
+      <p>As of August 2026, Google's AI Overview for "growth guys coupon code" leads with HEALTHYLIFE10, labeled "Most widely verified." A live checkout example and how to check it yourself.</p></a>
+    <a class="card" href="/articles/growth-guys-semaglutide-code.html">
+      <span class="k">Codes</span><h3>The semaglutide code</h3>
+      <p>HEALTHYLIFE10, CANADA, and PEPTIDES all take 10% off semaglutide — no product exclusions, no cap. What to ignore on coupon sites and the two checks that beat the discount.</p></a>
+    <a class="card" href="/articles/is-growth-guys-canada-legit-reddit.html">
+      <span class="k">Reviews</span><h3>Legit, per Reddit?</h3>
+      <p>The Canadian peptide-community verdict: legitimate and third-party tested, but pricier than grey-market options. What &#x27;legit&#x27; actually means and the honest caveats.</p></a>
+    <a class="card" href="/articles/best-growth-guys-code.html">
+      <span class="k">Codes</span><h3>Which code is actually best</h3>
+      <p>All the working codes give the same 10% — so &#x27;best&#x27; means verified, not biggest. How to pick the real one and why 20-35% codes fail at checkout.</p></a>
+    <a class="card" href="/articles/growth-guys-review-reddit-honest.html">
+      <span class="k">Reviews</span><h3>What Reddit actually says</h3>
+      <p>The real peer consensus from Canadian peptide communities — legit and tested, but not cheap. The praise, the gripes, and what a review can&#x27;t tell you.</p></a>
+    <a class="card" href="/articles/growth-guys-free-shipping.html">
+      <span class="k">Guides</span><h3>Free shipping + the code</h3>
+      <p>There&#x27;s no free-shipping code — it&#x27;s a $350 CAD threshold. How it stacks with the 10% codes, and why clearing it beats hunting a code.</p></a>
+    <a class="card" href="/articles/growth-guys-first-order-code.html">
+      <span class="k">Codes</span><h3>The first-order code, explained</h3>
+      <p>Yes there&#x27;s a first-order discount — and it&#x27;s not first-order-only, which is better. The two separate discounts, and which to use when.</p></a>
+    <a class="card" href="/articles/growth-guys-questions-answered.html">
+      <span class="k">Guides</span><h3>Every question, answered</h3>
+      <p>The ~20 questions Google autocomplete shows people asking about Growth Guys — codes, legitimacy, shipping, products — each answered in two sentences with the deep guide linked.</p></a>
+    <a class="card" href="/articles/growth-guys-codes-list.html">
+      <span class="k">Codes</span><h3>The full tested-codes list</h3>
+      <p>Three codes pass a monthly cart test — HEALTHYLIFE10, CANADA, PEPTIDES — all flat 10%. Everything else, checked and sorted.</p></a>
+    <a class="card" href="/articles/growth-guys-shipping-time.html">
+      <span class="k">Guides</span><h3>Shipping, tracking, thresholds</h3>
+      <p>Domestic Canadian shipping, per-order tracking, and the $350 CAD free-shipping line — what&#x27;s confirmed and what to check.</p></a>
+    <a class="card" href="/articles/growth-guys-black-friday.html">
+      <span class="k">Codes</span><h3>Black Friday: real vs template</h3>
+      <p>No verified history of deep BF cuts — the reliable floor is the year-round 10%. This page updates with dates, not guesses.</p></a>
+    <a class="card" href="/articles/growth-guys-bpc157-code.html">
+      <span class="k">Codes</span><h3>BPC-157: code + shipping math</h3>
+      <p>10% off is real — but on small BPC-157 orders the free-shipping threshold moves the total more than the code does.</p></a>
+    <a class="card" href="/articles/growth-guys-tirzepatide-code.html">
+      <span class="k">Codes</span><h3>The tirzepatide code, explained</h3>
+      <p>HEALTHYLIFE10 covers tirzepatide and the whole cart around it — no cap, no exclusions. What to ignore on coupon sites.</p></a>
+    <a class="card" href="/articles/growth-guys-retatrutide-code.html">
+      <span class="k">Codes</span><h3>The retatrutide code, with real math</h3>
+      <p>$90.00 CAD list, $81.00 with the code — verified at cart. Plus the checks that matter more than the 10%.</p></a>
+    <a class="card" href="/articles/growth-guys-promo-code-reddit.html">
+      <span class="k">Codes</span><h3>The Growth Guys code on Reddit</h3>
+      <p>What peptide subreddits actually share when someone asks for a code — and the one check that beats any thread.</p></a>
+    <a class="card" href="/articles/growth-guys-20-percent-off-code.html">
+      <span class="k">Codes</span><h3>Is there a Growth Guys 20% off code?</h3>
+      <p>No sitewide code above 10% has ever survived checkout. Where the 20-35% codes come from, and the one that&#x27;s actually verified.</p></a>
+    <a class="card" href="/articles/why-package-name-differs-peptide-order.html">
+      <span class="k">Vetting</span><h3>Three names, one order</h3>
+      <p>The brand, the payee and the shipping label rarely match in this category. Here&#x27;s why that&#x27;s normal — and the mismatch that isn&#x27;t.</p></a>
+    <a class="card" href="/articles/growth-guys-coupon-code-not-working.html">
+      <span class="k">Codes</span><h3>When the coupon code doesn&#x27;t work</h3>
+      <p>Most failed Growth Guys codes were never issued by anyone. Here&#x27;s the real list, and the one legitimate reason a working code died in July.</p></a>
+    <a class="card" href="/articles/growth-guys-vs-great-northern-peptides.html">
+      <span class="k">Comparison</span><h3>Growth Guys vs Great Northern</h3>
+      <p>No crowned winner — a side-by-side on shipping origin, lab independence, and what you still have to verify yourself.</p></a>
+    <a class="card" href="/articles/peptide-testing-proof-levels.html">
+      <span class="k">Testing</span><h3>The 5 levels of testing proof</h3>
+      <p>A COA proves a test happened on some sample — not on yours. Here&#x27;s the ladder from weakest proof to strongest.</p></a>
+    <a class="card" href="/articles/peptide-vendor-payment-red-flags.html">
+      <span class="k">Vetting</span><h3>Payment red flags</h3>
+      <p>Crypto-only with no refund path and no registered business is the real warning sign — here&#x27;s how to read the checkout.</p></a>
+    <a class="card" href="/articles/growthguys-is-not-working-where-growth-guys-moved.html">
+      <span class="k">Trust</span><h3>growthguys.is not loading?</h3>
+      <p>It isn&#x27;t broken — it forwards. Growth Guys moved to growthguys.com. Here&#x27;s what to re-save and what to check.</p></a>
+    <a class="card" href="/articles/healthylife10-code-growthguys-com-domain-change.html">
+      <span class="k">Code</span><h3>HEALTHYLIFE10 after the move</h3>
+      <p>Yes — 10% off, unaffected by the domain change. Here&#x27;s why an address change never touches a code, and what actually makes one fail.</p></a>
+    <a class="card" href="/articles/growth-guys-new-domain-growthguys-com.html">
+      <span class="k">Trust</span><h3>Growth Guys moved to .com</h3>
+      <p>The .is address now forwards to growthguys.com. Old links still work — but a domain move is exactly when lookalike sites appear. Here&#x27;s the check.</p></a>
+    <a class="card" href="/articles/is-growth-guys-legit-2026.html">
+      <span class="k">Trust</span><h3>Is Growth Guys legit?</h3>
+      <p>Yes, it&#x27;s a real vendor — but &#x27;legit&#x27; is the easy half. Here&#x27;s the checklist that actually protects you.</p></a>
+    <a class="card" href="/articles/cbsa-secondary-inspection-peptides.html">
+      <span class="k">Shipping</span><h3>Customs secondary inspection</h3>
+      <p>A customs hold isn&#x27;t a verdict, it&#x27;s a queue — and domestic-Canada shipping skips it entirely.</p></a>
+    <a class="card" href="/articles/does-growth-guys-ship-to-canada.html">
+      <span class="k">Canada</span><h3>Does Growth Guys ship to Canada?</h3>
+      <p>Growth Guys is a Canada-facing supplier — here&#x27;s what domestic shipping means for buyers, plus the working code.</p></a>
+    <a class="card" href="/articles/best-canadian-peptide-vendor-2026.html">
+      <span class="k">Canada</span><h3>Best Canadian peptide vendor 2026</h3>
+      <p>There&#x27;s no single &#x27;best&#x27; — here&#x27;s the checklist that separates a domestic vendor worth trusting from the rest.</p></a>
+    <a class="card" href="/articles/clia-waiver-peptide-lab.html">
+      <span class="k">Testing</span><h3>CLIA waiver explained</h3>
+      <p>A CLIA waiver covers simple clinical tests — not the HPLC/mass-spec work peptide testing needs.</p></a>
+    <a class="card" href="/articles/endotoxin-testing-peptides.html">
+      <span class="k">Testing</span><h3>Endotoxin testing explained</h3>
+      <p>A purity number won&#x27;t catch bacterial byproducts. Why endotoxin is a separate test — and when it counts.</p></a>
+    <a class="card" href="/articles/what-research-use-only-means.html">
+      <span class="k">Sourcing</span><h3>&quot;Research Use Only&quot; explained</h3>
+      <p>The label is a regulatory line, not a quality grade. Here&#x27;s what it does and doesn&#x27;t tell you.</p></a>
+    <a class="card" href="/articles/reading-a-coa-mass-balance.html">
+      <span class="k">Testing</span><h3>Mass balance on a COA</h3>
+      <p>If the components don&#x27;t add up to ~100%, there&#x27;s unexplained material in the vial.</p></a>
+    <a class="card" href="/articles/why-peptide-prices-vary.html">
+      <span class="k">Sourcing</span><h3>Why prices vary</h3>
+      <p>Price gaps usually reflect testing and sourcing, not a deal. The cheapest vial is often the untested one.</p></a>
+    <a class="card" href="/articles/peptide-vendor-communication-red-flags.html">
+      <span class="k">Red flags</span><h3>Communication red flags</h3>
+      <p>How a vendor answers a simple testing question tells you more than its homepage.</p></a>
+    <a class="card" href="/articles/what-is-a-third-party-lab.html">
+      <span class="k">Testing</span><h3>What a third-party lab is</h3>
+      <p>A lab with no stake in the result — it didn&#x27;t make the product and doesn&#x27;t profit if it passes.</p></a>
+    <a class="card" href="/articles/peptide-coa-batch-number-matching.html">
+      <span class="k">Testing</span><h3>Batch-number matching</h3>
+      <p>A certificate only describes the batch it was run on. If the number doesn&#x27;t match, it isn&#x27;t your product.</p></a>
+    <a class="card" href="/articles/how-to-compare-canadian-peptide-vendors.html">
+      <span class="k">Sourcing</span><h3>Comparing Canadian vendors</h3>
+      <p>Three things you can actually verify — testing, shipping, track record — not the homepage copy.</p></a>
+    <a class="card" href="/articles/does-a-peptide-coa-expire.html">
+      <span class="k">Testing</span><h3>Does a COA expire?</h3>
+      <p>A COA doesn&#x27;t spoil like milk — but an old one tied to a batch you aren&#x27;t buying tells you little.</p></a>
+    <a class="card" href="/articles/domestic-vs-overseas-peptide-vendors.html">
+      <span class="k">Sourcing</span><h3>Domestic vs overseas vendors</h3>
+      <p>For Canadian buyers the real differences are shipping, the border, and recourse — not quality.</p></a>
+    <a class="card" href="/articles/coa-purity-vs-identity.html">
+      <span class="k">Testing</span><h3>Purity vs identity</h3>
+      <p>A 99% pure sample of the wrong molecule is still useless. Read both numbers.</p></a>
+    <a class="card" href="/articles/hplc-vs-mass-spec-peptide-testing.html">
+      <span class="k">Testing</span><h3>HPLC vs mass spec</h3>
+      <p>Two tests, two different questions — and why you need both to read a COA properly.</p></a>
+    <a class="card" href="/articles/is-healthylife10-a-valid-growth-guys-code.html">
+      <span class="k">Discount</span><h3>Is HEALTHYLIFE10 valid?</h3>
+      <p>Yes — the working 10% Growth Guys code, how to apply it, and how to verify it in 10 seconds.</p></a>
+    <a class="card" href="/articles/cost-to-test-a-peptide-vial.html">
+      <span class="k">Testing</span><h3>Cost to test a vial</h3>
+      <p>Third-party testing is cheap enough that &#x27;too expensive to test&#x27; is itself a red flag.</p></a>
+    <a class="card" href="/articles/independent-blind-testing-vs-vendor-coa.html">
+      <span class="k">Testing</span><h3>Blind testing vs vendor COA</h3>
+      <p>Why a buyer-submitted blind test beats any COA the vendor chose to run.</p></a>
+    <a class="card" href="/articles/janoshik-vs-in-house-testing.html">
+      <span class="k">Testing</span><h3>Independent vs in-house testing</h3>
+      <p>Why a third-party lab result carries more weight than a vendor grading its own homework.</p></a>
+    <a class="card" href="/articles/peptides-canada-customs.html">
+      <span class="k">Sourcing</span><h3>Peptides &amp; Canadian customs</h3>
+      <p>Why domestic shipping sidesteps the border question entirely, and how to vet a Canadian vendor.</p></a>
+    <a class="card" href="/articles/how-to-read-a-peptide-coa.html">
+      <span class="k">Cornerstone</span><h3>How to read a peptide COA</h3>
+      <p>A COA proves a test happened — not that it's your vial. The 6-point check before you buy.</p></a>
+    <a class="card" href="/vendor-quiz.html">
+      <span class="k">Free tool</span><h3>Is your vendor legit?</h3>
+      <p>A 60-second quiz that scores any vendor's testing transparency and flags the red flags.</p></a>
+    <a class="card" href="/reconstitution-calculator.html">
+      <span class="k">Free tool</span><h3>Reconstitution calculator</h3>
+      <p>Vial size + water added + your dose → concentration and syringe units. Pure math, no dosing advice.</p></a>
+    <a class="card" href="/articles/growth-guys-discount-code.html">
+      <span class="k">Discount</span><h3>Growth Guys code (verified)</h3>
+      <p>The working code, how to apply it, and why the vendor behind it matters more than the % off.</p></a>
+    <a class="card" href="/articles/what-are-peptides.html">
+      <span class="k">Foundations</span><h3>What are peptides?</h3>
+      <p>A plain-English starting point: what peptides are, and how research vs. pharmaceutical peptides differ.</p></a>
+    <a class="card" href="/articles/peptide-storage-guide.html">
+      <span class="k">Handling</span><h3>Peptide storage guide</h3>
+      <p>Lyophilized vs. reconstituted storage conventions — before you even reach the dosing question.</p></a>
+    <a class="card" href="/articles/peptides-for-longevity-research-canada.html">
+      <span class="k">Research</span><h3>Longevity research peptides</h3>
+      <p>What the literature does and doesn't establish for epitalon, GHK-Cu, and BPC-157 — claim-free.</p></a>
+  </div>
+
+  <h2>Buying in Canada 🇨🇦</h2>
+  <div class="sub">Sourcing without getting burned at the border — or by a fake lab.</div>
+  <div class="cards">
+    <a class="card" href="/articles/buying-peptides-in-canada.html">
+      <span class="k">Sourcing</span><h3>Buying peptides in Canada</h3>
+      <p>Why domestic shipping matters, how to vet testing, and the shortlist approach.</p></a>
+    <a class="card" href="/articles/are-peptides-legal-in-canada.html">
+      <span class="k">The rules</span><h3>Are peptides legal in Canada?</h3>
+      <p>Research chemical vs. approved drug, the Health Canada position, in plain English.</p></a>
+    <a class="card" href="/articles/how-to-spot-a-fake-testing-lab.html">
+      <span class="k">Red flags</span><h3>How to spot a fake testing lab</h3>
+      <p>The captive-lab tells: domain age, single client, fake verify portals.</p></a>
+    <a class="card" href="/articles/is-the-growth-guys-code-legit.html">
+      <span class="k">Trust</span><h3>Is the discount code legit?</h3>
+      <p>How to confirm any code works in 10 seconds — and why the vendor matters more.</p></a>
+  </div>
+
+  <h2>Vetting & reviews</h2>
+  <div class="sub">Go deeper on spotting the real from the fake.</div>
+  <div class="cards">
+    <a class="card" href="/articles/growth-guys-review.html">
+      <span class="k">Review</span><h3>Growth Guys review (2026)</h3>
+      <p>An honest take on the only things worth reviewing: testing, shipping, transparency.</p></a>
+    <a class="card" href="/articles/peptide-vendor-red-flags.html">
+      <span class="k">Checklist</span><h3>Peptide vendor red flags</h3>
+      <p>The 7 flags that separate a trustworthy vendor from one selling hype.</p></a>
+    <a class="card" href="/articles/why-two-vendors-same-coa.html">
+      <span class="k">Explainer</span><h3>Why two vendors share a COA</h3>
+      <p>COA theft, reuse, and shared suppliers — and how to tell which it is.</p></a>
+    <a class="card" href="/articles/buy-peptides-canada-safely.html">
+      <span class="k">Canada 🇨🇦</span><h3>Buy peptides in Canada safely</h3>
+      <p>The 4-step lowest-risk way to source domestically.</p></a>
+  </div>
+
+  <h2>The testing deep-dives</h2>
+  <div class="sub">Everything on how peptide testing really works — the moat most buyers skip.</div>
+  <div class="cards">
+    <a class="card" href="/articles/canadian-peptide-vendors.html">
+      <span class="k">Canada 🇨🇦</span><h3>Evaluate a Canadian vendor</h3>
+      <p>The 4-part framework: domestic shipping, verifiable testing, transparency, reputation.</p></a>
+    <a class="card" href="/articles/what-is-a-captive-lab.html">
+      <span class="k">Explainer</span><h3>What is a captive lab?</h3>
+      <p>A "lab" that tests for one vendor only — grading its own homework. How to spot it.</p></a>
+    <a class="card" href="/articles/coa-reuse-and-theft.html">
+      <span class="k">Core lesson</span><h3>COA reuse &amp; theft</h3>
+      <p>The two ways a "real" certificate still misleads you — and how to defeat both.</p></a>
+    <a class="card" href="/articles/how-to-verify-a-coa.html">
+      <span class="k">How-to</span><h3>Verify a COA yourself</h3>
+      <p>The 2-minute portal check — plus the fake-portal test that exposes theatre.</p></a>
+    <a class="card" href="/articles/growth-guys-coupon-canada.html">
+      <span class="k">Coupon 🇨🇦</span><h3>Growth Guys coupon (Canada)</h3>
+      <p>HEALTHYLIFE10 = 10% off, domestic shipping. How to use it.</p></a>
+  </div>
+
+  <h2>The hard truths</h2>
+  <div class="sub">The stuff the industry would rather you didn't check.</div>
+  <div class="cards">
+    <a class="card" href="/articles/are-peptide-reviews-trustworthy.html">
+      <span class="k">Trust</span><h3>Are peptide reviews real?</h3>
+      <p>Why so many "best vendor" reviews are paid — and how to tell.</p></a>
+    <a class="card" href="/articles/phantom-coa-signatory.html">
+      <span class="k">Red flag</span><h3>The phantom "chemist"</h3>
+      <p>When the same COA signatory signs hundreds of docs and exists nowhere.</p></a>
+    <a class="card" href="/articles/importing-peptides-china-canada.html">
+      <span class="k">Canada 🇨🇦</span><h3>Importing from China? The math</h3>
+      <p>Why direct-from-overseas looks cheap until you price in the real costs.</p></a>
+  </div>
+
+  <h2>More on the rules &amp; testing</h2>
+  <div class="sub">The fine print most buyers skip.</div>
+  <div class="cards">
+    <a class="card" href="/articles/research-use-only-meaning.html"><span class="k">The rules</span><h3>"Research use only" — what it means</h3><p>It's a legal-status label, not a quality claim. Here's the difference.</p></a>
+    <a class="card" href="/articles/iso-17025-peptide-lab.html"><span class="k">Testing</span><h3>What ISO 17025 actually means</h3><p>Accredited vs. "ISO-aligned" weasel wording — and how to check.</p></a>
+    <a class="card" href="/articles/do-vendors-test-every-batch.html"><span class="k">Red flag</span><h3>Do vendors test every batch?</h3><p>Mostly no. How to tell if YOUR vial was actually tested.</p></a>
+  </div>
+
+  <div class="email">
+    <h2 style="margin-top:0">Get the COA Checklist (free)</h2>
+    <p class="sub">The 1-page printable list to run on any vendor before you spend a dollar. No spam.</p>
+    <!-- [PLACEHOLDER]: set the form action to your Kit (ConvertKit) form URL to capture emails -->
+    <form onsubmit="this.querySelector('.done').style.display='block';return false;">
+      <input type="email" placeholder="your@email.com" required>
+      <button type="submit">Send it →</button>
+      <div class="done" style="display:none;color:var(--gold-b);margin-top:10px">✅ On its way — check your inbox.</div>
+    </form>
+  </div>
+
+  <div style="border-top:1px solid var(--line);margin-top:24px;padding-top:16px"><div style="color:var(--gold-b);font-weight:700;margin-bottom:8px">Verified elsewhere</div>
+
+  <blockquote class="tumblr-post" data-width="540"><p><a href="https://torontohealthsource.tumblr.com/post/825325262675804160">https://torontohealthsource.tumblr.com/post/825325262675804160</a></p></blockquote>
+  <script async src="https://assets.tumblr.com/post.js"></script>
+
+  <div style="position:relative;padding-top:56.25%;margin:18px 0;border-radius:12px;overflow:hidden;max-width:540px">
+    <iframe src="https://www.dailymotion.com/embed/video/xb0irue" style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" allowfullscreen loading="lazy" title="Is Growth Guys Legit? Independent Lab Testing vs In-House COA Explained"></iframe>
+  </div>
+  </div>
+
+  <footer>
+    For research and educational purposes only. Not medical advice. This site discusses testing transparency, not what any compound does.<br>
+    © TorontoHealth
+  <p style="text-align:center;margin-top:14px" class="xlinks">More from TorontoHealth: <a href="https://torontohealthsource.blogspot.com/" style="color:var(--gold-b)">Blog</a> · <a href="https://torontohealthsource.tumblr.com/" style="color:var(--gold-b)">Tumblr</a></p>
+  </footer>
+</div>
+</body>
+</html>

@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<!--
+  TorontoHealth — "Is Your Peptide Vendor Legit?" interactive vetting quiz.
+  THE OWNED LEAD MAGNET. Converts cold "is this vendor real?" traffic into emails.
+  - 7 questions derived from the trust hierarchy in ~/P/peptide_source_vetting.md (claim-free, educational).
+  - Gives a live Trust Score, then gates the FULL personalized report + COA checklist + the code behind an email.
+  - 100% compliant: educational only, no health/efficacy claims, affiliate + "not medical advice" disclosure at the bottom.
+
+  [PLACEHOLDER — Pierre must do ONE thing to go live]:
+  Replace EMAIL_FORM_ACTION below with your Kit (ConvertKit) form's POST URL once you create the free Kit account.
+  Until then the email step just shows a "you're on the list (demo)" message so you can preview it.
+-->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Is Your Peptide Vendor Legit? — Free 60-Second Vetting Quiz | TorontoHealth</title>
+<meta name="description" content="A free 7-question quiz that scores how trustworthy a peptide vendor's testing really is — based on how Certificates of Analysis actually work. Educational only.">
+<style>
+  :root{
+    --emerald:#0f5132; --emerald-light:#1a7a4c; --gold:#d4a574; --gold-bright:#e8c08a;
+    --bg:#0a0a0a; --card:#121512; --line:#243024; --text:#eef2ee; --muted:#9fb0a2;
+  }
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:radial-gradient(1200px 600px at 50% -10%, #11241a 0%, var(--bg) 55%);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    line-height:1.6;min-height:100vh;display:flex;align-items:flex-start;justify-content:center;padding:32px 16px}
+  .wrap{width:100%;max-width:640px}
+  .brand{display:flex;align-items:center;gap:10px;justify-content:center;margin-bottom:8px}
+  .brand .dot{width:12px;height:12px;border-radius:50%;background:linear-gradient(135deg,var(--emerald-light),var(--gold))}
+  .brand .name{font-weight:700;letter-spacing:.5px;color:var(--gold)}
+  h1{font-size:1.9rem;text-align:center;line-height:1.25;margin:10px 0 6px;
+    background:linear-gradient(90deg,#fff,var(--gold-bright));-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent}
+  .sub{text-align:center;color:var(--muted);margin-bottom:22px;font-size:.98rem}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:26px 22px;
+    box-shadow:0 18px 50px rgba(0,0,0,.5)}
+  .progress{height:6px;background:#1c241c;border-radius:99px;overflow:hidden;margin-bottom:22px}
+  .progress > i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--emerald-light),var(--gold));transition:width .35s ease}
+  .qnum{color:var(--gold);font-size:.8rem;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:6px}
+  .qtext{font-size:1.22rem;font-weight:650;margin-bottom:18px}
+  .opt{display:block;width:100%;text-align:left;background:#0e120e;border:1px solid var(--line);color:var(--text);
+    padding:14px 16px;border-radius:12px;margin-bottom:10px;cursor:pointer;font-size:1rem;transition:.15s}
+  .opt:hover{border-color:var(--gold);transform:translateY(-1px);background:#101610}
+  .hint{color:var(--muted);font-size:.85rem;margin-top:8px}
+  /* result */
+  .score-ring{width:150px;height:150px;margin:6px auto 14px;border-radius:50%;display:flex;align-items:center;justify-content:center;
+    background:conic-gradient(var(--scoreColor,#888) calc(var(--scorePct,0)*1%), #1c241c 0);position:relative}
+  .score-ring > div{width:118px;height:118px;border-radius:50%;background:var(--card);display:flex;flex-direction:column;align-items:center;justify-content:center}
+  .score-ring b{font-size:2.1rem}.score-ring span{font-size:.75rem;color:var(--muted);letter-spacing:1px}
+  .verdict{text-align:center;font-size:1.25rem;font-weight:700;margin:4px 0 4px}
+  .verdict.sub{font-size:.95rem;color:var(--muted);font-weight:400}
+  .reveal{margin-top:18px;border-top:1px dashed var(--line);padding-top:18px}
+  .lock{text-align:center}
+  .lock h3{font-size:1.15rem;margin-bottom:6px}
+  .lock p{color:var(--muted);font-size:.92rem;margin-bottom:14px}
+  .perk{display:flex;gap:10px;align-items:flex-start;text-align:left;margin:8px 0;font-size:.93rem}
+  .perk .c{color:var(--gold)}
+  form{margin-top:14px;display:flex;flex-direction:column;gap:10px}
+  input[type=email]{background:#0e120e;border:1px solid var(--line);color:#fff;padding:14px 16px;border-radius:12px;font-size:1rem}
+  input[type=email]:focus{outline:none;border-color:var(--gold)}
+  .btn{background:linear-gradient(135deg,var(--emerald),var(--emerald-light));color:#fff;border:none;padding:15px;border-radius:12px;
+    font-size:1.05rem;font-weight:700;cursor:pointer;transition:.15s}
+  .btn:hover{filter:brightness(1.12);transform:translateY(-1px)}
+  .btn.gold{background:linear-gradient(135deg,#b9883f,var(--gold))}
+  .restart{display:block;margin:16px auto 0;background:none;border:none;color:var(--muted);text-decoration:underline;cursor:pointer;font-size:.85rem}
+  .share{margin-top:16px;text-align:center}
+  .share button{background:#0e120e;border:1px solid var(--line);color:var(--text);padding:9px 14px;border-radius:10px;margin:4px;cursor:pointer;font-size:.85rem}
+  .share button:hover{border-color:var(--gold)}
+  .disc{color:var(--muted);font-size:.74rem;text-align:center;margin-top:22px;line-height:1.5}
+  .hidden{display:none}
+  .codebox{background:#0e1b12;border:1px solid var(--emerald-light);border-radius:12px;padding:14px;text-align:center;margin-top:12px}
+  .codebox b{color:var(--gold-bright);font-size:1.4rem;letter-spacing:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="brand"><span class="dot"></span><span class="name">TORONTOHEALTH</span></div>
+  <h1 id="topTitle">Is Your Peptide Vendor Actually Legit?</h1>
+  <p class="sub">A free 60-second check. 7 questions on how their <em>testing</em> really holds up — based on how Certificates of Analysis actually work, not marketing.</p>
+
+  <div class="card">
+    <div class="progress"><i id="bar"></i></div>
+
+    <!-- QUESTION STAGE -->
+    <div id="quiz">
+      <div class="qnum" id="qnum">Question 1 of 7</div>
+      <div class="qtext" id="qtext"></div>
+      <div id="opts"></div>
+      <div class="hint" id="hint"></div>
+    </div>
+
+    <!-- RESULT STAGE -->
+    <div id="result" class="hidden">
+      <div class="score-ring" id="ring"><div><b id="scoreNum">0</b><span>TRUST SCORE</span></div></div>
+      <div class="verdict" id="verdict"></div>
+      <div class="verdict sub" id="verdictSub"></div>
+
+      <!-- EMAIL GATE -->
+      <div class="reveal" id="gate">
+        <div class="lock">
+          <h3>🔓 Unlock your full vendor report</h3>
+          <p>See exactly which trust signals your vendor is missing — plus get the tools to never get burned.</p>
+        </div>
+        <div class="perk"><span class="c">✓</span><span><b>The 1-page COA Checklist</b> — the printable list to run on any vendor before you buy.</span></div>
+        <div class="perk"><span class="c">✓</span><span><b>Your personalized weak-spots</b> — the specific red flags from your answers.</span></div>
+        <div class="perk"><span class="c">✓</span><span><b>The verified discount</b> — the code for a vendor that actually uses independent testing.</span></div>
+        <form id="emailForm">
+          <input type="email" id="email" placeholder="your@email.com" required>
+          <button class="btn" type="submit">Send me the full report →</button>
+        </form>
+      </div>
+
+      <!-- UNLOCKED CONTENT (after email) -->
+      <div class="reveal hidden" id="unlocked">
+        <h3 style="margin-bottom:10px">✅ Your report is on its way</h3>
+        <p style="color:var(--muted);font-size:.92rem">Check your inbox for the COA Checklist. Here's your personalized summary:</p>
+        <div id="weakSpots" style="margin:12px 0"></div>
+        <div class="codebox">
+          <div style="color:var(--muted);font-size:.85rem;margin-bottom:4px">Verified vendor — independent lab testing · 10% off</div>
+          <b>HEALTHYLIFE10</b>
+          <div style="margin-top:8px"><a class="btn gold" style="display:inline-block;text-decoration:none;padding:11px 18px" href="https://growthguys.coupons" target="_blank" rel="noopener">See the verified vendor →</a></div>
+        </div>
+        <div class="share">
+          <div style="color:var(--muted);font-size:.85rem;margin-bottom:6px">Know someone about to buy peptides? Send them this check:</div>
+          <button onclick="shareNative()">📲 Share the quiz</button>
+          <button onclick="copyLink()">🔗 Copy link</button>
+        </div>
+      </div>
+
+      <button class="restart" onclick="restart()">↻ Re-check a different vendor</button>
+    </div>
+  </div>
+
+  <p class="disc">
+    For research and educational purposes only. Not medical advice. This quiz scores publicly-observable
+    <em>testing transparency</em> signals — it is not an accusation about any specific company.
+  </p>
+</div>
+
+<script>
+/* ---- ONE THING TO EDIT TO GO LIVE: paste your Kit form POST URL here ---- */
+const EMAIL_FORM_ACTION = ""; // e.g. "https://app.kit.com/forms/1234567/subscriptions"
+/* ----------------------------------------------------------------------- */
+
+// Questions come straight from the trust hierarchy (weakest->strongest) in peptide_source_vetting.md.
+// Each "good" answer adds points. Max = 100.
+const Q = [
+  { q:"Does the lab's Certificate of Analysis (COA) verify on the LAB'S OWN website — not just a PDF the vendor uploaded?",
+    hint:"A PDF on the vendor's site only defeats forgery. A result that resolves on the lab's own portal is far stronger.",
+    a:[["Yes — it resolves on the lab's own portal",20],["Only a PDF on the vendor's site",4],["Not sure / can't find it",0]] },
+  { q:"Is that testing lab used by MANY competing vendors — or does it only seem to test for this one brand?",
+    hint:"A lab that serves one master is 'captive' — that's grading their own homework. Independence comes from serving rivals.",
+    a:[["Many different/competing vendors use it",20],["Looks like it only tests for this brand",2],["Not sure",4]] },
+  { q:"When was the lab's website created compared to the vendor's?",
+    hint:"A 'lab' whose domain appears days after the vendor it tests for is a classic captive-shell tell.",
+    a:[["Lab is clearly older / long-established",16],["Lab appeared right around the same time",2],["Haven't checked",6]] },
+  { q:"Is there any INDEPENDENT, blind/community testing (buyers send off-the-shelf vials they bought themselves)?",
+    hint:"Blind community testing (e.g. Finnrick / BatchGuild style) is the gold standard — the vendor can't cherry-pick the sample.",
+    a:[["Yes — independent blind results exist",18],["No — only vendor-supplied testing",4],["Not sure",4]] },
+  { q:"Does the client name on the COA actually match THIS vendor (not some unrelated company)?",
+    hint:"A real COA should tie to the vendor ordering it. A mismatched/blank client name can mean a reused or borrowed COA.",
+    a:[["Yes — name matches the vendor",12],["No / blank / different company",1],["Didn't check",4]] },
+  { q:"How does the vendor handle questions about testing — openly, or defensively/vaguely?",
+    hint:"Transparency under questioning is a soft but real signal. Hand-waving 'ISO-aligned' wording (not accredited) is a yellow flag.",
+    a:[["Open, specific, shows the portal",6],["Vague / 'trust us' / dodges",1],["Haven't asked",3]] },
+];
+
+let i=0, score=0, answers=[];
+const bar=document.getElementById('bar');
+
+function render(){
+  const item=Q[i];
+  document.getElementById('qnum').textContent=`Question ${i+1} of ${Q.length}`;
+  document.getElementById('qtext').textContent=item.q;
+  document.getElementById('hint').textContent=item.hint;
+  const opts=document.getElementById('opts'); opts.innerHTML='';
+  item.a.forEach((opt,idx)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=opt[0];
+    b.onclick=()=>choose(opt[1],idx); opts.appendChild(b);
+  });
+  bar.style.width=`${(i/Q.length)*100}%`;
+}
+function choose(points,idx){
+  score+=points; answers.push({i,idx,points});
+  i++;
+  if(i<Q.length){ render(); } else { finish(); }
+}
+function finish(){
+  bar.style.width='100%';
+  document.getElementById('quiz').classList.add('hidden');
+  document.getElementById('result').classList.remove('hidden');
+  document.getElementById('topTitle').textContent="Your Vendor Trust Score";
+  const maxScore=Q.reduce((s,item)=>s+Math.max(...item.a.map(o=>o[1])),0);
+  const pct=Math.round(score/maxScore*100); // always out of 100, whatever the question count
+  const ring=document.getElementById('ring');
+  document.getElementById('scoreNum').textContent=pct;
+  let color, vText, vSub;
+  if(pct>=75){color='#1a7a4c';vText="🟢 Strong — this vendor's testing holds up well";vSub="Most of the trust signals that actually matter are present.";}
+  else if(pct>=45){color='#d4a574';vText="🟡 Mixed — proceed, but verify the gaps";vSub="Some real signals, but key proof is missing. Don't assume — check.";}
+  else {color='#c0392b';vText="🔴 Weak — major trust signals are missing";vSub="This pattern matches how reused / captive-lab testing usually looks.";}
+  ring.style.setProperty('--scorePct',pct);
+  ring.style.setProperty('--scoreColor',color);
+  document.getElementById('verdict').textContent=vText;
+  document.getElementById('verdictSub').textContent=vSub;
+}
+
+document.getElementById('emailForm').addEventListener('submit',function(e){
+  e.preventDefault();
+  const email=document.getElementById('email').value;
+  // Build the personalized weak-spots list from wrong/low answers
+  const weak=[];
+  const labels=["COA didn't verify on the lab's own portal","The lab may be captive (not independent)","Lab/vendor domains appeared together","No independent blind testing","COA client name didn't match the vendor","Vendor was vague about testing"];
+  answers.forEach(a=>{ if(a.idx!==0) weak.push(labels[a.i]); });
+  const ws=document.getElementById('weakSpots');
+  ws.innerHTML = weak.length
+    ? "<b>Your vendor's weak spots:</b><ul style='margin:8px 0 0 18px;color:#cdd8ce'>"+weak.map(w=>`<li>${w}</li>`).join('')+"</ul>"
+    : "<b>Nice — your vendor cleared every check.</b>";
+  // Submit to Kit if configured; otherwise demo mode
+  if(EMAIL_FORM_ACTION){
+    fetch(EMAIL_FORM_ACTION,{method:'POST',body:new URLSearchParams({email_address:email}),headers:{'Accept':'application/json'}}).catch(()=>{});
+  }
+  document.getElementById('gate').classList.add('hidden');
+  document.getElementById('unlocked').classList.remove('hidden');
+});
+
+function restart(){ i=0;score=0;answers=[];
+  document.getElementById('result').classList.add('hidden');
+  document.getElementById('gate').classList.remove('hidden');
+  document.getElementById('unlocked').classList.add('hidden');
+  document.getElementById('quiz').classList.remove('hidden');
+  document.getElementById('topTitle').textContent="Is Your Peptide Vendor Actually Legit?";
+  render();
+}
+function shareNative(){
+  const data={title:"Is your peptide vendor legit?",text:"Free 60-second check before you buy peptides:",url:location.href};
+  if(navigator.share){navigator.share(data).catch(()=>{});}else{copyLink();}
+}
+function copyLink(){ navigator.clipboard?.writeText(location.href); alert("Link copied — send it to someone about to buy."); }
+
+render();
+</script>
+</body>
+</html>

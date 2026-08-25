@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<!-- Free tool — reconstitution math calculator. No dosage advice: user supplies every input, this only does arithmetic. -->
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Peptide Reconstitution Calculator (Canada) — Free Tool | TorontoHealth</title>
+<meta name="description" content="Free peptide reconstitution calculator: enter vial size, BAC water added, and your desired dose to get concentration and syringe units. No dosage advice — pure math on your own numbers.">
+<link rel="canonical" href="https://growthguyscanada.ca/reconstitution-calculator.html">
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebApplication","name":"Peptide Reconstitution Calculator","description":"Free calculator for peptide reconstitution math: concentration and syringe draw units from vial size, BAC water volume, and desired dose.","applicationCategory":"HealthApplication","operatingSystem":"Any browser","offers":{"@type":"Offer","price":"0","priceCurrency":"CAD"},"publisher":{"@type":"Organization","name":"TorontoHealth","url":"https://growthguyscanada.ca/","sameAs":["https://torontohealthsource.blogspot.com/","https://www.youtube.com/@toronto.health"]}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+{"@type":"Question","name":"How does a peptide reconstitution calculator work?","acceptedAnswer":{"@type":"Answer","text":"It divides the total peptide in the vial by the volume of bacteriostatic water you add, giving a concentration. From there it converts your desired dose into the syringe units needed to draw that amount, based on standard U-100 insulin syringe markings."}},
+{"@type":"Question","name":"Does this tool tell me what dose to take?","acceptedAnswer":{"@type":"Answer","text":"No. It only does arithmetic on numbers you enter yourself — vial size, water added, and a dose figure you choose. It does not recommend, suggest, or validate any dose. Dosing decisions are outside the scope of this tool."}},
+{"@type":"Question","name":"What syringe size does this assume?","acceptedAnswer":{"@type":"Answer","text":"A standard U-100 insulin syringe, where 100 units equals 1 mL. That is the most common syringe used with reconstituted peptides."}},
+{"@type":"Question","name":"Why does more BAC water mean fewer units per dose?","acceptedAnswer":{"@type":"Answer","text":"Adding more water dilutes the same amount of peptide across a larger volume, lowering the concentration — so each unit on the syringe delivers less peptide, meaning more units are needed for the same dose."}},
+{"@type":"Question","name":"Is this specific to Growth Guys products?","acceptedAnswer":{"@type":"Answer","text":"No — the math is universal and works for any peptide vial regardless of vendor. It's published here because TorontoHealth covers Growth Guys sourcing and testing topics generally."}}
+]}
+</script>
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Peptide Reconstitution Calculator (Canada) — Free Tool | TorontoHealth">
+<meta property="og:description" content="Free peptide reconstitution calculator: enter vial size, BAC water added, and your desired dose to get concentration and syringe units.">
+<meta property="og:url" content="https://growthguyscanada.ca/reconstitution-calculator.html">
+<meta property="og:image" content="https://growthguyscanada.ca/og.svg">
+<meta property="og:site_name" content="TorontoHealth">
+<style>
+  :root{--emerald:#0f5132;--emerald-l:#1a7a4c;--gold:#d4a574;--gold-b:#e8c08a;--bg:#0a0a0a;--card:#121512;--line:#243024;--text:#eef2ee;--muted:#9fb0a2}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.7}
+  .wrap{max-width:640px;margin:0 auto;padding:0 18px 60px}
+  nav{padding:18px 0;border-bottom:1px solid var(--line)}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:700;color:var(--gold);letter-spacing:.5px;text-decoration:none}
+  .brand .dot{width:12px;height:12px;border-radius:50%;background:linear-gradient(135deg,var(--emerald-l),var(--gold))}
+  h1{font-size:1.9rem;line-height:1.25;margin:30px 0 8px}
+  h2{font-size:1.2rem;margin:26px 0 8px;color:var(--gold-b)}
+  p,li{color:#dce6dd}
+  .sub{color:var(--muted);font-size:.95rem;margin-bottom:20px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:22px;margin:18px 0}
+  label{display:block;font-size:.85rem;color:var(--muted);margin:14px 0 6px}
+  input,select{width:100%;background:#0e1510;border:1px solid var(--emerald-l);border-radius:8px;padding:11px 12px;color:var(--text);font-size:1rem}
+  input:focus,select:focus{outline:2px solid var(--gold);outline-offset:1px}
+  .result{background:#0e1b12;border:1px solid var(--emerald-l);border-radius:12px;padding:18px;margin-top:20px}
+  .result .big{font-size:1.6rem;color:var(--gold-b);font-weight:700}
+  .result .line{display:flex;justify-content:space-between;padding:6px 0;border-bottom:1px solid var(--line);font-size:.95rem}
+  .result .line:last-child{border-bottom:none}
+  .warn{color:var(--muted);font-size:.82rem;margin-top:10px}
+  a{color:var(--gold-b)}
+  footer{border-top:1px solid var(--line);margin-top:36px;padding-top:18px;color:var(--muted);font-size:.8rem}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <nav><a class="brand" href="/"><span class="dot"></span>TORONTOHEALTH</a></nav>
+  <div style="font-size:.8rem;color:#9fb0a2;margin-top:12px"><a href="/" style="color:#9fb0a2">Home</a> &rsaquo; Reconstitution calculator<br><span style="color:#6f7f72">By TorontoHealth Editorial &middot; Free tool</span></div>
+
+  <h1>Peptide Reconstitution Calculator</h1>
+  <div class="sub">Enter your own numbers — this tool does the arithmetic, it does not tell you what dose to use.</div>
+
+  <div class="card">
+    <label for="vial">Peptide amount in the vial (mg)</label>
+    <input type="number" id="vial" step="any" min="0" placeholder="e.g. 5">
+
+    <label for="water">Bacteriostatic water added (mL)</label>
+    <input type="number" id="water" step="any" min="0" placeholder="e.g. 2">
+
+    <label for="dose">Your dose figure</label>
+    <input type="number" id="dose" step="any" min="0" placeholder="e.g. 250">
+
+    <label for="doseunit">Dose unit</label>
+    <select id="doseunit">
+      <option value="mcg">mcg (micrograms)</option>
+      <option value="mg">mg (milligrams)</option>
+    </select>
+
+    <div id="out" class="result" style="display:none">
+      <div class="line"><span>Concentration</span><span class="big" id="conc">—</span></div>
+      <div class="line"><span>mL to draw</span><span id="ml">—</span></div>
+      <div class="line"><span>Units on a U-100 insulin syringe</span><span id="units">—</span></div>
+      <p class="warn">This is arithmetic on the numbers you entered, not a dosing recommendation. Verify independently before drawing anything into a syringe.</p>
+    </div>
+  </div>
+
+  <h2>How the math works</h2>
+  <p>Concentration = peptide amount (mg) ÷ water added (mL), converted to mcg/mL. Volume to draw = your dose ÷ concentration. A standard U-100 insulin syringe reads 100 units per mL, so units = mL to draw × 100. More water dilutes the same peptide across a bigger volume — lower concentration, more units per dose.</p>
+
+  <h2>Common questions</h2>
+  <p><b>How does this calculator work?</b> It divides the total peptide in the vial by the water you add, giving a concentration, then converts your chosen dose into syringe units based on a standard U-100 insulin syringe.</p>
+  <p><b>Does this tell me what dose to take?</b> No — it only does math on numbers you enter. It doesn't recommend, suggest, or validate any dose; that's outside its scope.</p>
+  <p><b>What syringe does this assume?</b> A standard U-100 insulin syringe (100 units = 1 mL), the most common type used with reconstituted peptides.</p>
+  <p><b>Is this specific to Growth Guys?</b> No — the math applies to any peptide vial from any vendor. It's published here because this site covers Growth Guys sourcing and testing topics generally.</p>
+
+  <p style="margin-top:20px"><a href="/vendor-quiz.html">Check a vendor's testing transparency →</a> &middot; <a href="/articles/growth-guys-discount-code.html">The Growth Guys discount code →</a></p>
+
+  <footer>General educational information. This tool performs arithmetic only and does not constitute dosing advice. For research and educational purposes only. Not medical advice.</footer>
+</div>
+<script>
+(function(){
+  const vialEl = document.getElementById('vial');
+  const waterEl = document.getElementById('water');
+  const doseEl = document.getElementById('dose');
+  const unitEl = document.getElementById('doseunit');
+  const out = document.getElementById('out');
+  function calc(){
+    const vialMg = parseFloat(vialEl.value);
+    const waterMl = parseFloat(waterEl.value);
+    const doseVal = parseFloat(doseEl.value);
+    if (!(vialMg > 0) || !(waterMl > 0) || !(doseVal > 0)) { out.style.display = 'none'; return; }
+    const vialMcg = vialMg * 1000;
+    const concMcgPerMl = vialMcg / waterMl;
+    const doseMcg = unitEl.value === 'mg' ? doseVal * 1000 : doseVal;
+    const mlToDraw = doseMcg / concMcgPerMl;
+    const units = mlToDraw * 100;
+    document.getElementById('conc').textContent = concMcgPerMl.toFixed(1) + ' mcg/mL';
+    document.getElementById('ml').textContent = mlToDraw.toFixed(3) + ' mL';
+    document.getElementById('units').textContent = units.toFixed(1) + ' units';
+    out.style.display = 'block';
+  }
+  [vialEl, waterEl, doseEl, unitEl].forEach(function(el){ el.addEventListener('input', calc); el.addEventListener('change', calc); });
+})();
+</script>
+</body>
+</html>
