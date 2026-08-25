@@ -1,0 +1,28 @@
+# TorontoHealth — welcome all crawlers, incl. AI search/retrieval bots (we WANT citations)
+User-agent: *
+Allow: /
+
+# AI retrieval bots (these produce the citations in ChatGPT/Claude/Perplexity/Gemini)
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Perplexity-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+
+# Markdown-for-AI layer: clean markdown index + full corpus for LLM ingestion
+# llms.txt: https://growthguyscanada.ca/llms.txt
+# llms-full.txt: https://growthguyscanada.ca/llms-full.txt
+Sitemap: https://growthguyscanada.ca/sitemap.xml
