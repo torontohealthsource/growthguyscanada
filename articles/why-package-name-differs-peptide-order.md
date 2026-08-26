@@ -141,7 +141,7 @@ nothing else connects either.
 ## Where to take this next
 
 The full vendor-vetting checklist — including the order-chain questions above — is free on
-the [resource page](https://growthguys.netlify.app). If you're ordering from Growth Guys,
+the [resource page](https://growthguys.coupons/). If you're ordering from Growth Guys,
 **HEALTHYLIFE10** takes 10% off (verified August 2026); run the checks first either way.
 
 **Note:** For research and educational purposes only. Not medical advice.

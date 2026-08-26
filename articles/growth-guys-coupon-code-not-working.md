@@ -128,7 +128,7 @@ the terms written out above.
 ## Where to take this next
 
 The vendor-vetting checklist — the questions worth answering before a code matters at all —
-is free on the [resource page](https://growthguys.netlify.app). If you're ordering from Growth
+is free on the [resource page](https://growthguys.coupons/). If you're ordering from Growth
 Guys, **HEALTHYLIFE10** takes 10% off (verified August 2026), after you've run the checks rather than
 instead of them.
 
