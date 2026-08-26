@@ -19,6 +19,8 @@ Source: https://growthguyscanada.ca/articles/is-healthylife10-a-valid-growth-guy
 
 Codes get rotated, so the checkout page is the only real test: if the field accepts **HEALTHYLIFE10** and the subtotal drops 10%, it's active. If a code ever fails, it's usually been replaced — not a sign the vendor is down.
 
+[HEALTHYLIFE10 cart-tested August 26, 2026 — view on Instagram →](https://www.instagram.com/p/DchTEB_Gk4P/)
+
 ## What matters more than the code
 
 A discount on an untested product isn't a deal. Before you use any code, confirm the vendor shows a Certificate of Analysis that verifies on the testing lab's own portal, with the vendor named as the client. Save more by buying tested product once, not cheap product twice.
