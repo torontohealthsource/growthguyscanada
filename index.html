@@ -46,10 +46,11 @@
   .cta{display:inline-block;margin-top:24px;background:linear-gradient(135deg,var(--emerald),var(--emerald-l));color:#fff;text-decoration:none;
     padding:15px 26px;border-radius:12px;font-weight:700;font-size:1.05rem;transition:.15s}
   .cta:hover{filter:brightness(1.12);transform:translateY(-1px)}
-  .cta.gold{background:linear-gradient(135deg,#b9883f,var(--gold));margin-left:10px}
-  .codebar{background:#0e1b12;border:1px solid var(--emerald-l);border-radius:14px;padding:18px;text-align:center;margin:30px 0}
+  .cta.gold{background:linear-gradient(135deg,var(--emerald),var(--gold));margin-left:10px}
+  .codebar{background:#1a0f0f;border:1px solid var(--emerald-l);border-radius:14px;padding:22px;text-align:center;margin:30px 0}
   .codebar .lbl{color:var(--muted);font-size:.85rem}
-  .codebar b{display:block;color:var(--gold-b);font-size:1.8rem;letter-spacing:3px;margin:6px 0}
+  .codebar .codes{display:flex;flex-wrap:wrap;justify-content:center;gap:10px;margin:14px 0}
+  .codebar .chip{background:var(--gold-b);color:#0a0a0a;font-weight:800;letter-spacing:1.5px;padding:11px 22px;border-radius:10px;font-size:1.2rem}
   .codebar .terms{color:var(--muted);font-size:.82rem}
   h2{font-size:1.5rem;margin:38px 0 6px}
   .sub{color:var(--muted);margin-bottom:18px}
@@ -83,8 +84,13 @@
 
   <div class="codebar">
     <span class="lbl">Verified vendor · independent lab testing · save 10%</span>
-    <b>HEALTHYLIFE10</b>
-    <span class="terms">Code applies 10% off at checkout · verified monthly</span>
+    <div class="codes">
+      <span class="chip">HEALTHYLIFE10</span>
+      <span class="chip">CANADA</span>
+      <span class="chip">PEPTIDES</span>
+      <span class="chip">HELLO10</span>
+    </div>
+    <span class="terms">Any code applies 10% off at checkout · verified monthly</span>
   </div>
 
   <h2>Start here — the guides</h2>
