@@ -30,6 +30,8 @@ The discount is nice, but the two things that actually matter for Canadian buyer
 
 **How much off?** 10% off your order.
 
+[CANADA code cart-tested August 26, 2026 — view on Instagram →](https://www.instagram.com/p/DchTOqRmubq/)
+
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ## Common questions
