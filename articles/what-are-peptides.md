@@ -2,7 +2,7 @@
 
 _What peptides are, how they differ from proteins, the difference between research and pharmaceutical peptides, and how they're regulated in Canada — a plain-English starting point._
 
-Source: https://growthguyscanada.ca/articles/what-are-peptides.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/what-are-peptides.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What is a peptide, in one line?** A short chain of amino acids — the same building
@@ -70,6 +70,10 @@ see our dedicated explainers for the current picture rather than relying on any 
 *For research and educational purposes only. Not medical advice.*
 
 Related guides[Are peptides legal in Canada?](/articles/are-peptides-legal-in-canada.html) · [How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company or compound. For research and educational purposes only. Not medical advice._

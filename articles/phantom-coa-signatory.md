@@ -2,7 +2,7 @@
 
 _Some peptide COAs are signed by a 'principal chemist' who has no verifiable existence — the same name on hundreds of documents, matching no real record. Here's how to check._
 
-Source: https://growthguyscanada.ca/articles/phantom-coa-signatory.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/phantom-coa-signatory.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The tell:** a COA is signed by an official-sounding "Principal Chemist" — the same name appears on hundreds of documents across multiple vendors, yet that person matches **no verifiable professional record anywhere.** A real signatory has a footprint. A boilerplate signature line is just decoration.
@@ -25,6 +25,10 @@ A genuinely independent lab is an institution with staff, accreditation, and a p
 
 [🧪 Run the free vendor check →](/vendor-quiz.html)
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational patterns, not claims about any specific company or person. For research and educational purposes only. Not medical advice._

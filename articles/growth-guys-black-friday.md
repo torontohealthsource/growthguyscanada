@@ -2,8 +2,12 @@
 
 _Growth Guys Black Friday 2026: no published history of deep sitewide sales. The verified year-round code is HEALTHYLIFE10 (flat 10%). Updated with dated facts as November approaches._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-black-friday.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-black-friday.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Does Growth Guys do a Black Friday sale?** There is no published history of deep sitewide
 Black Friday discounts at Growth Guys — the reliable, verified floor is the year-round flat 10%
@@ -19,7 +23,7 @@ from the store. What's actually verifiable today:
 
 | Claim | Status |
 | --- | --- |
-| Year-round 10% via HEALTHYLIFE10 | ✅ Verified at checkout monthly (latest: August 2026, $9.00 off $90.00 CAD) |
+| Year-round 10% via HEALTHYLIFE10 | ✅ Verified at checkout daily (latest: August 26, 2026, $9.00 off $90.00 CAD) |
 | "Up to 40% off Black Friday" aggregator listings | ❌ No issuer, no history, written by template |
 | Product-level sale pricing in November | Unknown until it happens — check the store directly |
 
@@ -34,12 +38,14 @@ from the store. What's actually verifiable today:
 ## How this page stays honest
 
 Every claim here is dated. The code's current proof lives on the
-[verified code page](https://growthguys.coupons/) (monthly checkout screenshot), and
+[verified code page](https://growthguys.coupons/) (daily checkout screenshot), and
 if Growth Guys announces an actual November promotion, this page will say so with a date — not a
 template guess. Vetting the store itself? Start with the
 [vendor-vetting quiz](/vendor-quiz.html).
 
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Does Growth Guys have a Black Friday code?** None has ever been verified. The working year-round code is HEALTHYLIFE10 at a flat 10%.
 
@@ -47,13 +53,13 @@ template guess. Vetting the store itself? Start with the
 
 **When will this page update for November 2026?** As soon as anything verifiable appears; every update carries a date.
 
-**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
 
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,7 +2,7 @@
 
 _Ordering peptides direct from China to Canada looks cheap until you add customs risk, no recourse, and unverifiable testing. Here's the real math and the safer alternative._
 
-Source: https://growthguyscanada.ca/articles/importing-peptides-china-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/importing-peptides-china-canada.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The headline price is not the real price.** Ordering direct from an overseas supplier looks cheapest per vial — until you price in customs seizures, zero recourse, and testing you can't verify. Once those are in the math, a domestic Canadian vendor with real independent testing usually wins on *expected* cost, not just peace of mind.
@@ -27,6 +27,10 @@ A vendor shipping [domestically within Canada](/articles/buy-peptides-canada-saf
 
 [🧪 Run the free vendor check →](/vendor-quiz.html)
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _For research and educational purposes only. Not medical advice. Peptides discussed are not approved for human use in Canada._

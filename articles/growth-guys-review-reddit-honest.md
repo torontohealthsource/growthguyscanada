@@ -2,8 +2,12 @@
 
 _What do people on Reddit actually say about Growth Guys? The honest Canadian consensus: legit, third-party (Janoshik) tested, domestically shipped — but pricier than grey-market alternatives ('legit but expensive'). Balanced praise and criticism, no hype._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-review-reddit-honest.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-review-reddit-honest.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **What do people on Reddit actually say about Growth Guys?** The honest summary from Canadian
 peptide communities: broadly legit, third-party tested, but not the cheapest — the most common
@@ -60,6 +64,8 @@ use: our [60-second vendor-vetting quiz](/vendor-quiz.html) walks them.
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Is Growth Guys legit according to Reddit?** The consensus in Canadian peptide communities is yes — legit and third-party tested — with the common caveat that it's more expensive than some alternatives.
 
 **Why do people say Growth Guys is expensive?** Because tested, domestically-shipped product costs more than untested overseas product. Reddit's frequent "legit but expensive" reflects that trade-off, not a complaint about quality.
@@ -71,8 +77,8 @@ use: our [60-second vendor-vetting quiz](/vendor-quiz.html) walks them.
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

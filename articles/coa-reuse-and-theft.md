@@ -2,7 +2,7 @@
 
 _The two ways a 'real' Certificate of Analysis still misleads you: reuse (one test, thousands of vials) and theft (someone else's COA). Here's how each works._
 
-Source: https://growthguyscanada.ca/articles/coa-reuse-and-theft.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/coa-reuse-and-theft.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The core idea:** a Certificate of Analysis proves a test happened on *some* sample — not that it came from your vial, nor that the vendor showing it is the one who ordered it. That gap is exploited two ways: **reuse** and **theft**. A "real" PDF defeats neither.
@@ -29,6 +29,10 @@ Related: [why two vendors share a COA](/articles/why-two-vendors-same-coa.html) 
 
 [🧪 Run the free vendor check →](/vendor-quiz.html)
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

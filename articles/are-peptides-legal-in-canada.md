@@ -2,7 +2,7 @@
 
 _A plain, neutral explainer of how peptides are regulated in Canada in 2026 — research chemicals vs. approved drugs, the Health Canada position, and what it means for buyers. Educational only._
 
-Source: https://growthguyscanada.ca/articles/are-peptides-legal-in-canada.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/are-peptides-legal-in-canada.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** It's a grey area. Most research peptides are **not approved by Health Canada for human use**, and selling them *for human consumption* is not permitted. They are widely sold and bought as **"research chemicals" for laboratory and educational purposes only**. This page explains the distinction — it is general information, not legal advice.
@@ -19,7 +19,7 @@ In Canada, a substance marketed to *diagnose, treat, or affect the body* is regu
 
 - **Importing** — shipments can be examined, delayed, or seized at the border, which is a major reason buyers prefer [domestic Canadian vendors](/articles/buying-peptides-in-canada.html).
 
-⚠️ **Health Canada has issued advisories** about unauthorized peptide products, and regulators have signalled increased attention to how they're marketed (including by online sellers and affiliates). Treat any product claim with skepticism, and understand you're buying unapproved material.
+⚠️ **Health Canada has issued [advisories](https://recalls-rappels.canada.ca/en/alert-recall/think-twice-injecting-peptides-bought-online-unauthorized-products-can-seriously-harm)** about unauthorized peptide products, and regulators have signalled increased attention to how they're marketed (including by online sellers and affiliates). Treat any product claim with skepticism, and understand you're buying unapproved material.
 
 ## Why this makes vendor diligence even more important
 
@@ -28,6 +28,10 @@ Because these products sit outside the approved-drug system, **no regulator is c
 [🧪 Check a vendor's testing in 60 seconds →](/vendor-quiz.html)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _This is general educational information, not legal or medical advice. For research and educational purposes only. Peptides discussed are not approved for human use in Canada._

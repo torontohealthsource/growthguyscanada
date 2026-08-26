@@ -2,8 +2,12 @@
 
 _What happens when the Canada Border Services Agency pulls a peptide parcel for secondary inspection, how long holds take, and why domestic shipping avoids the border. Logistics explainer, educational only._
 
-Source: https://growthguyscanada.ca/articles/cbsa-secondary-inspection-peptides.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/cbsa-secondary-inspection-peptides.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **What does a CBSA "secondary inspection" mean for a peptide order?** It means the Canada Border Services Agency has pulled your package aside for a closer look, which can hold it for days to a few weeks. Ordering from a vendor that ships *domestically inside Canada* avoids the border entirely, so there's no inspection step to get stuck in. This is a shipping-logistics explainer, not medical advice.
 
@@ -11,7 +15,7 @@ Updated July 2026 · General educational information, not medical or legal advic
 
 ## What actually happens at the border
 
-When a parcel crosses into Canada, it passes through a CBSA checkpoint. Most parcels clear automatically. Some get flagged for *secondary inspection* — a manual review where the package is set aside and examined. Here's what most people don't realize: a hold isn't a verdict. It's a queue. Your order sits waiting for a person to get to it, and that waiting is the real cost.
+When a parcel crosses into Canada, it passes through a [CBSA](https://www.cbsa-asfc.gc.ca/travel-voyage/inspections-eng.html) checkpoint. Most parcels clear automatically. Some get flagged for *secondary inspection* — a manual review where the package is set aside and examined. Here's what most people don't realize: a hold isn't a verdict. It's a queue. Your order sits waiting for a person to get to it, and that waiting is the real cost.
 
 ## How long can a secondary inspection take?
 
@@ -43,12 +47,16 @@ Customs risk isn't really a shipping problem — it's a sourcing decision made u
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

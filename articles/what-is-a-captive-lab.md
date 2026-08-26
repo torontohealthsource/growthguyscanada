@@ -2,7 +2,7 @@
 
 _A captive lab is a testing 'lab' that exists to test for one vendor only — grading its own homework. Here's how to recognize one and why independence is everything._
 
-Source: https://growthguyscanada.ca/articles/what-is-a-captive-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/what-is-a-captive-lab.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **A captive lab** is a testing "lab" that exists to test for **one vendor only** — often spun up by, or alongside, that vendor. Because it serves a single master, its "independent" results are really the vendor grading its own homework. Independence is the entire value of third-party testing, and a captive lab has none.
@@ -29,6 +29,10 @@ A genuinely independent lab (used by hundreds of competing vendors, with a long 
 
 [🧪 Check if a vendor's lab is independent →](/vendor-quiz.html)
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

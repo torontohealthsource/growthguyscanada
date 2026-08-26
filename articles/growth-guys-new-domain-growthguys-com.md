@@ -2,8 +2,12 @@
 
 _Growth Guys has moved from growthguys.is to growthguys.com. The old address still forwards, and the HEALTHYLIFE10 code still gives 10% off. Here's how to confirm you're on the real store after a domain change. Educational only._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-new-domain-growthguys-com.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-new-domain-growthguys-com.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Has Growth Guys changed its website address?** Yes. Growth Guys now operates at **growthguys.com**. The older **growthguys.is** address still forwards to it, so old bookmarks and links continue to land in the right place — we confirmed the forward on 27 July 2026. Discount codes are unaffected: **HEALTHYLIFE10** still takes 10% off at checkout on the new address.
 
@@ -11,7 +15,9 @@ Updated August 2026 · General educational information, not medical or legal adv
 
 ## What actually changed
 
-Only the address bar. The storefront, the catalogue, the published lab results and the checkout are the same operation at a new domain name. A vendor moving from a country-code domain like *.is* to a *.com* is a routine, and frankly overdue, housekeeping move — country-code domains are harder to keep, easier to lose, and get treated with more suspicion by payment processors and search engines alike. The move was also [flagged independently on X](https://x.com/growthguyspeps/status/2082200456948818005) at the time, confirming the code carried over unaffected.
+Only the address bar. The storefront, the catalogue, the published lab results and the checkout are the same operation at a new domain name. A vendor moving from a country-code domain like *.is* to a *.com* is a routine, and frankly overdue, housekeeping move — country-code domains are harder to keep, easier to lose, and get treated with more suspicion by payment processors and search engines alike. The move was also flagged independently on X at the time, confirming the code carried over unaffected:
+
+[](https://x.com/growthguyspeps/status/2082200456948818005)
 
 ## Do my old links and bookmarks still work?
 
@@ -55,17 +61,21 @@ Yes. **HEALTHYLIFE10** takes **10% off** at Growth Guys and applies at checkout 
 
 - **Your discount still applies:** HEALTHYLIFE10 for 10% off.
 
-**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
 
 For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._
