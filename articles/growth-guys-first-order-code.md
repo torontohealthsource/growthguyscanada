@@ -2,8 +2,12 @@
 
 _Is there a Growth Guys first-order promo code? Yes — HEALTHYLIFE10, CANADA, and PEPTIDES give 10% on the first order and every reorder (no signup), cart-tested August 2026. Plus the newsletter welcome discount and why they don't stack._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-first-order-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-first-order-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Is there a Growth Guys first-order promo code?** Yes — and it's not first-order-only, which
 is better. **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** each take a flat 10% off your
@@ -33,9 +37,16 @@ The codes shared in Canadian peptide subreddits for a first Growth Guys order ar
 public ones on this page — there's no secret Reddit-only new-buyer code. Anyone posting a
 higher-rate "first order exclusive" is describing a code that won't survive checkout. More on
 that pattern: [the Reddit code guide](/articles/growth-guys-promo-code-reddit.html).
-Recent independent cart tests on a first order landed the same result on
-[Instagram](https://www.instagram.com/p/DccVDszEdBv/) and
-[X](https://x.com/growthguyspeps/status/2092047739177562624) — HEALTHYLIFE10 applying a flat 10% off both times.
+Recent independent cart tests on a first order landed the same result — HEALTHYLIFE10 applying
+a flat 10% off both times:
+
+[First-order checkout test — view on Instagram →](https://www.instagram.com/p/DccVDszEdBv/)
+
+[Another first-order test, same result — view on Instagram →](https://www.instagram.com/p/DcfO2AkFoXQ/)
+
+[](https://x.com/growthguyspeps/status/2092047739177562624)
+
+[https://torontohealthsource.tumblr.com/post/825521916781756416](https://torontohealthsource.tumblr.com/post/825521916781756416)
 
 ## The first-order checklist that matters more than the code
 
@@ -49,6 +60,8 @@ Full tested-codes list with dates: [every code that actually works](/articles/gr
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Does HEALTHYLIFE10 work on a first order?** Yes — flat 10% on the first order and every reorder, no signup, cart-verified August 2026.
 
 **Is there a bigger new-customer code?** The newsletter welcome discount is one-time; no verified code beats the standing 10%. Aggregator "first order exclusive" codes above 10% are generated, not issued.
@@ -60,8 +73,8 @@ Full tested-codes list with dates: [every code that actually works](/articles/gr
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

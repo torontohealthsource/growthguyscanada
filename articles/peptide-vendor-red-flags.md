@@ -2,7 +2,7 @@
 
 _The red flags that separate a trustworthy peptide vendor from one selling on hype — no verifiable testing, captive labs, vague answers, and more. A practical checklist._
 
-Source: https://growthguyscanada.ca/articles/peptide-vendor-red-flags.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptide-vendor-red-flags.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The fastest red-flag test:** if a vendor's only "proof" is a PDF they uploaded themselves, and the testing lab has no independent footprint, treat it as marketing — not evidence. Below are the seven flags that matter most, in order.
@@ -24,6 +24,10 @@ You don't need to memorize all seven. Our free quiz runs exactly these flags aga
 Deeper dives: [how to read a COA](/articles/how-to-read-a-peptide-coa.html) · [how to spot a fake lab](/articles/how-to-spot-a-fake-testing-lab.html).
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _These are general educational patterns, not claims about any specific company. For research and educational purposes only. Not medical advice._

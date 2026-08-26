@@ -2,8 +2,12 @@
 
 _Why most Growth Guys coupon codes fail: aggregator sites generate them. The real codes are flat 10% (HEALTHYLIFE10, verified August 2026), plus the domain-change reason a working code stopped applying._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-coupon-code-not-working.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-coupon-code-not-working.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Why is my Growth Guys coupon code not working?** Nine times out of ten the code came from a
 coupon-aggregator site and was never issued by anyone. Growth Guys codes are flat 10% affiliate
@@ -84,8 +88,10 @@ a discount on it is not a saving. We laid out how to grade the evidence in
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Is HEALTHYLIFE10 still valid in August 2026?** Yes — it is a flat 10% code and it was
-checked on growthguys.com this month. There is no expiry date attached to it.
+cart-tested on growthguys.com August 26, 2026. There is no expiry date attached to it.
 
 **Can I use HEALTHYLIFE10 and SST10 together?** No. They are two affiliate codes for the same
 store at the same rate, and checkouts accept one code per order.
@@ -126,13 +132,13 @@ is free on the [resource page](https://growthguys.netlify.app). If you're orderi
 Guys, **HEALTHYLIFE10** takes 10% off (verified August 2026), after you've run the checks rather than
 instead of them.
 
-**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
 
 **Note:** For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

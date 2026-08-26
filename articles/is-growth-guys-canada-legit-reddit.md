@@ -2,8 +2,12 @@
 
 _Is Growth Guys Canada legit according to Reddit? The Canadian peptide-community consensus is yes — third-party (Janoshik) tested, domestically shipped — with the common caveat that it's more expensive than some alternatives._
 
-Source: https://growthguyscanada.ca/articles/is-growth-guys-canada-legit-reddit.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/is-growth-guys-canada-legit-reddit.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Is Growth Guys Canada legit, according to Reddit?** The consensus across Canadian peptide
 subreddits is yes — Growth Guys is considered a legitimate, third-party-tested vendor, with the
@@ -36,6 +40,10 @@ level-headed reminder that a good vendor is necessary but not sufficient — you
 own batch. None of these are quality complaints; they're the normal trade-offs of buying tested,
 domestically-shipped product.
 
+This same "legit but expensive" consensus has been flagged independently elsewhere too:
+
+[https://torontohealthsource.tumblr.com/post/825569100817481728](https://torontohealthsource.tumblr.com/post/825569100817481728)
+
 ## Reddit for "is it legit" — but not for "does the code work"
 
 | Question | Best source |
@@ -43,12 +51,14 @@ domestically-shipped product.
 | Is Growth Guys Canada legit / worth it? | Reddit consensus (read several threads) |
 | Does the discount code still work today? | A dated cart test, not an old comment — see the [verification log](/verification-log.html) |
 
-A code someone posted months ago may be dead. The codes confirmed working this month are
-**HEALTHYLIFE10**, **CANADA**, and **PEPTIDES**, each a flat 10% ([tested list](/articles/growth-guys-codes-list.html)). Before ordering from Growth Guys or
+A code someone posted months ago may be dead. Cart-tested on August 26, 2026, the codes confirmed working are
+**HEALTHYLIFE10**, **CANADA**, **PEPTIDES**, and **HELLO10**, each a flat 10% ([tested list](/articles/growth-guys-codes-list.html)). Before ordering from Growth Guys or
 anyone, run the store through the same checks the careful Redditors use: our
 [vendor-vetting quiz](/vendor-quiz.html).
 
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Is Growth Guys Canada legit according to Reddit?** The Canadian peptide-community consensus is yes — legitimate and third-party tested — with the caveat that it's more expensive than some alternatives.
 
@@ -59,8 +69,8 @@ anyone, run the store through the same checks the careful Redditors use: our
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

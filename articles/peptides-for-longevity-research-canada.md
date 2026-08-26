@@ -2,7 +2,7 @@
 
 _What research literature says — and doesn't say — about epitalon, GHK-Cu, and BPC-157 in longevity contexts. Claim-free summary distinguishing plausible from unproven in humans._
 
-Source: https://growthguyscanada.ca/articles/peptides-for-longevity-research-canada.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptides-for-longevity-research-canada.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What does "longevity peptide" actually mean?** It's a research-community category
@@ -56,6 +56,10 @@ would to a vendor's own marketing copy.
 *For research and educational purposes only. Not medical advice.*
 
 Related guides[What are peptides?](/articles/what-are-peptides.html) · [How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [Free vendor-vetting quiz](/vendor-quiz.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information summarizing research literature, not claims about any specific company or compound's effects. For research and educational purposes only. Not medical advice._

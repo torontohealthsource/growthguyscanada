@@ -2,7 +2,7 @@
 
 _The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, and why the vendor's testing matters more than the discount. Verified daily._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-discount-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-discount-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does Growth Guys have a discount code?** Yes. The current working code is **HEALTHYLIFE10**, which takes **10% off** your order. Enter it in the discount/coupon field at checkout. Verified working as of **August 2026**.
@@ -46,7 +46,11 @@ Not every code you find online has been checked the same way. Compare what's act
 | **Re-checked** | Daily | Rarely stated |
 | **Shows the actual math** | Yes ($X off a $Y cart) | Rarely |
 
-For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no cart math shown anywhere on the page — that doesn't mean the code doesn't work, only that there's no way to check from the listing itself. A code is just a text string; the only real test is whether it still applies at checkout today, with a date attached. See [every code we've actually cart-tested](/articles/growth-guys-codes-list.html) for the full comparison. Independent checkout tests posted elsewhere show the same result — for example [this cart-tested confirmation on X](https://x.com/growthguyspeps/status/2089834175989752147), with real math and a screenshot.
+For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no cart math shown anywhere on the page — that doesn't mean the code doesn't work, only that there's no way to check from the listing itself. A code is just a text string; the only real test is whether it still applies at checkout today, with a date attached. See [every code we've actually cart-tested](/articles/growth-guys-codes-list.html) for the full comparison. Independent checkout tests posted elsewhere show the same result, with real math and a screenshot:
+
+[](https://x.com/growthguyspeps/status/2089834175989752147)
+
+[Another checkout test, code applied — view on Instagram →](https://www.instagram.com/p/DcfchFEDVPd/)
 
 ## FAQ
 
@@ -71,6 +75,10 @@ For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no ca
 **How can I tell this is real verification, not just a badge?** Every check retains the store's raw cart API response, not just a screenshot — that's the underlying evidence, linked from every entry in the [verification log](/verification-log.html). A badge alone proves nothing; a retained, inspectable record does.
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [Free vendor-check quiz](/vendor-quiz.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 23, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).

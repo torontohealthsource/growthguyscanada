@@ -2,7 +2,7 @@
 
 _A Certificate of Analysis proves a test happened on some sample — not that it came from your vial. Here's the trust hierarchy and a 6-point checklist before you buy._
 
-Source: https://growthguyscanada.ca/articles/how-to-read-a-peptide-coa.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/how-to-read-a-peptide-coa.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What is a peptide COA?** A Certificate of Analysis is a lab document reporting what a tested sample contained. The key thing to understand: **a COA proves a test was performed on *some* sample — not that it came from the vial you'll receive, nor that the company showing it is the one who paid for the test.**
@@ -66,6 +66,10 @@ Want this scored for you automatically?
 Reading a COA isn't about trusting a PDF — it's about asking *whose* sample, verified *where*, by a lab accountable to *whom*. Get those three answers and you've done more diligence than most buyers ever will.
 
 Related guides[How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html) · [Free vendor-check quiz](/vendor-quiz.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _For research and educational purposes only. Not medical advice._

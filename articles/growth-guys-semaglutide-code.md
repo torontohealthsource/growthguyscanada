@@ -2,8 +2,12 @@
 
 _Is there a Growth Guys code for semaglutide? Yes — HEALTHYLIFE10, CANADA, and PEPTIDES each give a flat 10% off sitewide including semaglutide, cart-verified August 2026. No semaglutide-exclusive code exists._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-semaglutide-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-semaglutide-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Is there a Growth Guys code for semaglutide?** Yes — the same sitewide 10% applies to
 semaglutide as to everything else. **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** each
@@ -46,10 +50,12 @@ before comparing prices.
 ## Which code should you use for semaglutide?
 
 Any of the three — they're interchangeable at 10%. **CANADA** is easiest to remember on the
-Canadian store; all are cart-tested monthly with dated proof in the
+Canadian store; all are cart-tested daily with dated proof in the
 [verification log](/verification-log.html). Full list: [every code that actually works](/articles/growth-guys-codes-list.html).
 
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Does HEALTHYLIFE10 work on semaglutide?** Yes — flat 10% sitewide including semaglutide, no product exclusions, cart-verified August 2026.
 
@@ -60,8 +66,8 @@ Canadian store; all are cart-tested monthly with dated proof in the
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

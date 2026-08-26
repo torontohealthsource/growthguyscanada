@@ -2,7 +2,7 @@
 
 _How lyophilized (freeze-dried) peptides differ from reconstituted ones for storage purposes, general handling practices, and why storage conditions matter before you even reach the dosing question._
 
-Source: https://growthguyscanada.ca/articles/peptide-storage-guide.html · Updated: August 23, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptide-storage-guide.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **What's the short version?** Lyophilized (freeze-dried) peptides are commonly described as
@@ -66,6 +66,10 @@ belong before a purchase decision.
 *For research and educational purposes only. Not medical advice.*
 
 Related guides[Reconstitution calculator](/reconstitution-calculator.html) · [Does a peptide COA expire?](/articles/does-a-peptide-coa-expire.html) · [What are peptides?](/articles/what-are-peptides.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company or compound. For research and educational purposes only. Not medical advice._

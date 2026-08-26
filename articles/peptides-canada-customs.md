@@ -2,8 +2,12 @@
 
 _What happens when peptides cross the Canadian border: customs seizure risk, importer-of-record status, and why domestic shipping avoids it. Educational only, not legal advice._
 
-Source: https://growthguyscanada.ca/articles/peptides-canada-customs.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/peptides-canada-customs.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **What happens if peptides get stopped at Canada customs?** An international peptide parcel can be held or seized, and you become the "importer of record" of an unapproved product. That's the practical reason many Canadian buyers choose a vendor that ships domestically — when nothing crosses the border, there's nothing for customs to stop. Educational information only, not legal advice.
 
@@ -46,6 +50,8 @@ Border safety and testing transparency are two halves of the same decision. Once
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Can peptides be seized at the Canadian border?** An international parcel can be held or seized at customs. A domestic shipment never crosses the border, so this doesn't apply.
 
 **Am I responsible if customs stops my order?** On a personal international order you're generally the importer of record — the responsible party. A domestic order avoids that entirely.
@@ -53,8 +59,8 @@ Border safety and testing transparency are two halves of the same decision. Once
 **Is buying direct from overseas cheaper?** Per unit it can look cheaper, but seizure risk, bulk minimums, and no buyer protection usually erase the saving for an individual.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

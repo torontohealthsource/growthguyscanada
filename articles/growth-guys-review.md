@@ -2,7 +2,7 @@
 
 _An honest 2026 look at Growth Guys — what's verifiable about their testing and shipping, what to check yourself, and the working discount code. Educational only._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-review.html · Updated: July 7, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-review.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The short version:** Growth Guys is a Canadian-shipping peptide vendor that uses independent third-party lab testing (Janoshik). Domestic fulfilment avoids the customs delays that plague overseas orders. As with anything in this space, do your own diligence — and you can knock **10% off with code HEALTHYLIFE10**. Research/educational use only.
@@ -32,6 +32,8 @@ A good vendor doesn't excuse you from diligence. Run the same checks I'd run on 
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Is Growth Guys legit?** On the factors you can actually verify — independent third-party testing (Janoshik), domestic Canadian shipping, and transparency that shows results rather than hand-waving — it holds up better than most. Always run your own COA check before buying from any vendor.
 
 **Does Growth Guys ship within Canada?** Yes. Fulfilment is domestic within Canada, which avoids the customs delays and seizures that commonly affect overseas orders.
@@ -45,5 +47,5 @@ On the things you can actually verify — independent testing, domestic shipping
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
 
 ---
-_**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed monthly (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
+_**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
 For research and educational purposes only. Not medical advice. Peptides discussed are not approved for human use in Canada._

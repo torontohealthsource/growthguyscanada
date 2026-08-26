@@ -2,8 +2,12 @@
 
 _How to choose the best Canadian peptide vendor in 2026: a plain-English vetting checklist covering testing transparency, batch/lot provenance, and domestic shipping. Educational only._
 
-Source: https://growthguyscanada.ca/articles/best-canadian-peptide-vendor-2026.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/best-canadian-peptide-vendor-2026.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **What's the best Canadian peptide vendor in 2026?** There's no single winner — the "best" is whichever domestic vendor can *prove* it, not just claim it. In practice that comes down to three things: an independent-lab COA you can verify on the lab's own portal, a batch number that matches your physical vial, and reliable shipping inside Canada. This guide is that checklist.
 
@@ -47,6 +51,8 @@ A code should be the *last* thing you evaluate, not the first — trust first, t
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Is there one best Canadian peptide vendor?** No. The best vendor for you is the one whose testing you can independently verify and that ships inside Canada — that's a checklist, not a name.
 
 **What's the most important single signal?** A COA that resolves on the testing lab's own portal, with a lot number that matches your vial. Everything else is secondary.
@@ -56,8 +62,8 @@ A code should be the *last* thing you evaluate, not the first — trust first, t
 **Why prefer a domestic Canadian vendor?** Because the package never crosses the border, which removes customs seizure and importer-of-record risk entirely.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,8 +2,12 @@
 
 _What does Reddit say about Growth Guys retatrutide? The pattern: batch testing holds up, HEALTHYLIFE10 applies with no exclusions, and the main gripe is price and restocks — not authenticity._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-retatrutide-reddit-reviews.html · Updated: August 25, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-retatrutide-reddit-reviews.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **What does Reddit say about Growth Guys retatrutide specifically?** The pattern across
 Canadian peptide communities: batch testing checks out, the sitewide 10% code applies with no
@@ -43,7 +47,11 @@ a code mentioned in an old thread can be dead by the time you read it. For that,
 cart tests: HEALTHYLIFE10, CANADA, and PEPTIDES all verified against retatrutide in the
 [public verification log](/verification-log.html).
 
+[https://torontohealthsource.tumblr.com/post/825960883258834944](https://torontohealthsource.tumblr.com/post/825960883258834944)
+
 ## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 **Is Growth Guys retatrutide legit according to Reddit?** The pattern is yes — the same "tested, a bit pricier" consensus as the vendor generally, with no compound-specific red flags reported.
 

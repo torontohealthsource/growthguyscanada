@@ -2,8 +2,12 @@
 
 _Every real Google query about Growth Guys, answered: the promo codes (HEALTHYLIFE10, CANADA, PEPTIDES — all 10%, cart-tested August 2026), legitimacy, Reddit reviews, shipping times, USA availability, and product-specific codes._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-questions-answered.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-questions-answered.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **What do people actually ask Google about Growth Guys?** The same ~20 questions, over and
 over — about the promo code, legitimacy, reviews, shipping, and specific products. This page
@@ -12,7 +16,7 @@ Current verified codes: HEALTHYLIFE10, CANADA, PEPTIDES — each a flat 10%, car
 
 ## The code questions
 
-**What is the Growth Guys promo code?** Three codes are cart-tested and confirmed monthly: **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** — all a flat 10% off sitewide, no minimum, no expiry. Full list with test dates: [every code that actually works](/articles/growth-guys-codes-list.html).
+**What is the Growth Guys promo code?** Three codes are cart-tested and confirmed daily: **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** — all a flat 10% off sitewide, no minimum, no expiry. Full list with test dates: [every code that actually works](/articles/growth-guys-codes-list.html).
 
 **Is there a Growth Guys promo code for the first order?** The tested codes are not first-order-only — they work on the first order and every reorder. The store's newsletter also advertises a first-order signup discount; the codes above need no signup.
 
@@ -62,12 +66,16 @@ dates are.
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

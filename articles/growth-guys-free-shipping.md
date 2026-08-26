@@ -2,8 +2,12 @@
 
 _Growth Guys free shipping is automatic over $350.00 CAD (verified August 2026) — no code needed. How the threshold stacks with the 10% codes HEALTHYLIFE10, CANADA, and PEPTIDES, with real cart math._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-free-shipping.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-free-shipping.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Does Growth Guys have free shipping?** Yes — orders over **$350.00 CAD** ship free, shown
 live at checkout (verified August 2026). There's no separate free-shipping code; the flat 10%
@@ -14,7 +18,10 @@ calculated on top. On small orders, clearing that threshold saves more than the 
 
 No dedicated free-shipping code exists — and you don't need one. Free shipping is threshold-based:
 cross $350.00 CAD and it's automatic. Here's what most people get wrong hunting a "free shipping
-code": the lever isn't a code at all, it's how you build the cart.
+code": the lever isn't a code at all, it's how you build the cart. A recent independent checkout
+test confirmed the same thing — HEALTHYLIFE10 stacking with free shipping at no extra cost:
+
+[Free-shipping checkout test — view on Instagram →](https://www.instagram.com/p/DceHKkHkThI/)
 
 ## The math: code vs threshold on a real order
 
@@ -46,6 +53,8 @@ Codes and their test dates: [the tested-codes list](/articles/growth-guys-codes-
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Is there a Growth Guys free-shipping promo code?** No — free shipping is automatic above $350.00 CAD. The 10% codes apply on top of it.
 
 **What's the free-shipping minimum?** $350.00 CAD subtotal at the August 2026 checkout verification; confirm the live figure in your cart.
@@ -55,8 +64,8 @@ Codes and their test dates: [the tested-codes list](/articles/growth-guys-codes-
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

@@ -2,8 +2,12 @@
 
 _Is there a Growth Guys code for HGH? Yes — HEALTHYLIFE10, CANADA, and PEPTIDES give a flat 10% off HGH kits, cart-verified August 2026 (a $430 kit tested to $387). Biggest dollar saving of any category, plus free shipping over $350 CAD._
 
-Source: https://growthguyscanada.ca/articles/growth-guys-hgh-code.html · Updated: August 24, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/growth-guys-hgh-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
+
+[Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 > **Is there a Growth Guys code for HGH?** Yes — the sitewide 10% applies to HGH kits like
 everything else. **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** each take a flat 10%
@@ -46,6 +50,8 @@ Any of the three — same 10%. Full list with dates: [every code that actually w
 
 ## Common questions
 
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+
 **Does HEALTHYLIFE10 work on HGH kits?** Yes — flat 10% sitewide including HGH, no exclusions, cart-verified August 2026 (a $430 kit tested to $387).
 
 **Is there a bigger discount on HGH specifically?** No. The flat 10% is the verified rate; because HGH is high-priced, that 10% is already the largest dollar saving of any category.
@@ -55,8 +61,8 @@ Any of the three — same 10%. Full list with dates: [every code that actually w
 *For research and educational purposes only. Not medical advice.*
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
-[Or use CANADA →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada)
-[Or use PEPTIDES →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides)
+
+Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

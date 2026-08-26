@@ -2,7 +2,7 @@
 
 _ISO 17025 is the accreditation standard for testing labs. Here's what it actually means, why 'ISO 17025-aligned' is a red flag, and how to check if a lab is really accredited._
 
-Source: https://growthguyscanada.ca/articles/iso-17025-peptide-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/iso-17025-peptide-lab.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Short answer:** ISO/IEC 17025 is the international standard for the **competence of testing and calibration laboratories**. A lab that is **accredited** to it has been independently audited to prove its methods and results are reliable. The catch: **"ISO 17025-aligned" or "ISO-standard methods" is NOT accreditation** — it's weasel wording that borrows the credibility without earning it.
@@ -29,6 +29,10 @@ Accreditation is one signal — but for peptides, **independence matters even mo
 
 [🧪 Run the free vendor check →](/vendor-quiz.html)
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

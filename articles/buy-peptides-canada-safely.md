@@ -2,7 +2,7 @@
 
 _A practical, step-by-step way to source peptides in Canada with the least risk — domestic shipping, verifiable testing, and a vendor shortlist. Educational only._
 
-Source: https://growthguyscanada.ca/articles/buy-peptides-canada-safely.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/buy-peptides-canada-safely.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The safest path in one line:** buy from a **domestic Canadian vendor** (no border risk) whose testing is done by an **independent lab and verifies on the lab's own portal**, and treat everything as **research/educational material** — which is its legal status in Canada.
@@ -37,6 +37,10 @@ Don't marry one vendor. Keep two or three that ship domestically and pass the te
 [See the vendor →](https://growthguys.coupons)
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [How to spot a fake testing lab](/articles/how-to-spot-a-fake-testing-lab.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _For research and educational purposes only. Not medical advice. Peptides discussed are not approved for human use in Canada._

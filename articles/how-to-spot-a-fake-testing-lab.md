@@ -2,7 +2,7 @@
 
 _Some vendors run a 'lab' that exists only to test their own products. Here are the captive-lab red flags — domain age, single client, fake verify portals — so you can tell real testing from theatre._
 
-Source: https://growthguyscanada.ca/articles/how-to-spot-a-fake-testing-lab.html · Updated: June 17, 2026 · TorontoHealth — educational only, not medical advice.
+Source: https://growthguyscanada.ca/articles/how-to-spot-a-fake-testing-lab.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **The tell in one line:** a "captive" lab exists to test for *one* vendor only — that's grading your own homework. A real independent lab tests for **many competing vendors**. The red flags below help you spot the difference. (These are general patterns, not an accusation about any specific company.)
@@ -30,6 +30,10 @@ You don't need to become a detective on every purchase. Run the vendor through a
 Want the deeper version? Read [how to read a peptide COA](/articles/how-to-read-a-peptide-coa.html).
 
 Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.html) · [Buying peptides in Canada](/articles/buying-peptides-in-canada.html) · [The Growth Guys discount code](/articles/growth-guys-discount-code.html) · [Free vendor-check quiz](/vendor-quiz.html)
+
+## Common questions
+
+**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
 _These are general educational patterns, not claims about any specific company. For research and educational purposes only. Not medical advice._
