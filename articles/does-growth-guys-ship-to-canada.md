@@ -32,7 +32,7 @@ Domestic shipping is necessary but not sufficient. Run this quick pass on any ve
 
 ## Is the HEALTHYLIFE10 code still working?
 
-As of July 2026, **HEALTHYLIFE10** takes 10% off at Growth Guys. Codes come and go, so this page is cart-tested daily and carries the exact date of the latest check (most recently August 26, 2026) — if you're reading it much later, use that date as the freshness stamp. For transparency, this is my affiliate code; the price you pay doesn't change whether you use it or not. You can see the plain terms on the [bridge page](https://growthguys.coupons).
+As of July 2026, **HEALTHYLIFE10** takes 10% off at Growth Guys. Codes come and go, so this page is cart-tested daily and carries the exact date of the latest check (most recently August 26, 2026) — if you're reading it much later, use that date as the freshness stamp. For transparency: using it may earn us a commission, at no extra cost to you either way. You can see the plain terms on the [bridge page](https://growthguys.coupons).
 
 ## Domestic vs overseas: why Canadians pay a little more on purpose
 
@@ -51,7 +51,7 @@ That higher domestic price isn't just markup for its own sake. Independent repor
 
 **Does Growth Guys ship within Canada?** Yes — it's a Canada-facing supplier, so domestic shipping is its core market.
 
-**What is the Growth Guys discount code?** HEALTHYLIFE10 for 10% off, verified July 2026. It's an affiliate code and the price you pay is unchanged.
+**What is the Growth Guys discount code?** HEALTHYLIFE10 for 10% off, verified July 2026. Using it may earn us a commission, at no extra cost to you.
 
 **Is domestic shipping safer than importing?** It avoids the customs and importer-of-record issues that come with an international parcel — that's the practical advantage.
 

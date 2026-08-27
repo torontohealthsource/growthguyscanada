@@ -47,7 +47,7 @@ This is the most underrated filter for Canadian buyers. A domestic vendor means 
 
 ## Where a discount code fits (and where it doesn't)
 
-A code should be the *last* thing you evaluate, not the first — trust first, then price. For transparency: one Canada-facing option is Growth Guys, and I run the code **HEALTHYLIFE10** for 10% off there. That's an affiliate code, so I'm disclosing it plainly; use it only if a vendor has already cleared the checklist above. If you want a neutral starting point, the [bridge page](https://growthguys.coupons) lays out the terms, and the free vendor-vetting quiz turns this checklist into a step-by-step check.
+A code should be the *last* thing you evaluate, not the first — trust first, then price. For transparency: one Canada-facing option is Growth Guys, and I run the code **HEALTHYLIFE10** for 10% off there. Using it may earn us a commission at no extra cost to you — disclosed plainly; use it only if a vendor has already cleared the checklist above. If you want a neutral starting point, the [bridge page](https://growthguys.coupons) lays out the terms, and the free vendor-vetting quiz turns this checklist into a step-by-step check.
 
 ## Common questions
 

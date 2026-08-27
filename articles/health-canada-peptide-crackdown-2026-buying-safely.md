@@ -53,4 +53,4 @@ Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.ht
 **Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
 
 ---
-_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. Posts may contain affiliate links — the price you pay does not change._
+_General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice. This page may contain a sponsored link — the price you pay does not change._

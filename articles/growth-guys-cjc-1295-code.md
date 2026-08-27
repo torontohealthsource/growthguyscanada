@@ -52,7 +52,7 @@ concentration and syringe-unit math from your own vial and water numbers.
 
 **Is there a bigger CJC-1295-specific code?** No. All legitimate codes at this store are the same flat 10%; larger advertised discounts on coupon sites are aggregator-generated with no cart proof.
 
-**Is this the official Growth Guys page?** No — TorontoHealth is an independent affiliate resource. The storefront, products, and policies belong to growthguys.com.
+**Is this the official Growth Guys page?** No — TorontoHealth is an independent research resource. The storefront, products, and policies belong to growthguys.com.
 
 **Where do I see the proof the code works?** The [verification log](/verification-log.html) retains a dated cart record for every check, re-run daily.
 
