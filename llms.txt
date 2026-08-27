@@ -77,6 +77,9 @@
 - [Your Peptide Package Arrived Under a Different Company Name — Is That a Scam?](https://growthguyscanada.ca/articles/why-package-name-differs-peptide-order.html) ([markdown](https://growthguyscanada.ca/articles/why-package-name-differs-peptide-order.md)): Why peptide orders arrive under an unfamiliar company name: vendors separate brand, banking and shipping identities. The…
 - [growthguys.is Not Working? Growth Guys Moved to growthguys.com](https://growthguyscanada.ca/articles/growthguys-is-not-working-where-growth-guys-moved.html) ([markdown](https://growthguyscanada.ca/articles/growthguys-is-not-working-where-growth-guys-moved.md)): Old growthguys.is links redirecting somewhere new? Growth Guys moved to growthguys.com in July 2026. The forward works, …
 
+## Checkout verification (updated daily)
+- [Growth Guys code verification log](https://growthguyscanada.ca/verification-log.html): every automated cart test of HEALTHYLIFE10, CANADA, PEPTIDES, and HELLO10, dated and timestamped, with a retained evidence record per test — checkout-verification records, not just claims.
+
 ## Tools
 - [Free vendor-vetting quiz](https://growthguyscanada.ca/vendor-quiz.html): scores any peptide vendor's testing transparency in 60 seconds.
 
