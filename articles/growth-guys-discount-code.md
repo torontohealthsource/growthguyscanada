@@ -70,7 +70,7 @@ For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no ca
 
 **Where does Growth Guys ship from?** Domestically within Canada — see [does Growth Guys ship to Canada](/articles/does-growth-guys-ship-to-canada.html) for details.
 
-**Is this the official Growth Guys page?** No — TorontoHealth is an independent affiliate resource. The storefront, products, and policies belong to growthguys.com; we document code verification, we don't run the store.
+**Is this the official Growth Guys page?** No — TorontoHealth is an independent research resource. The storefront, products, and policies belong to growthguys.com; we document code verification, we don't run the store.
 
 **How can I tell this is real verification, not just a badge?** Every check retains the store's raw cart API response, not just a screenshot — that's the underlying evidence, linked from every entry in the [verification log](/verification-log.html). A badge alone proves nothing; a retained, inspectable record does.
 
