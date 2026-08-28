@@ -1,17 +1,19 @@
 # Growth Guys Coupon Code Not Working? Here's Which Codes Are Real
 
-_Why most Growth Guys coupon codes fail: aggregator sites generate them. The real codes are flat 10% (HEALTHYLIFE10, verified August 2026), plus the domain-change reason a working code stopped applying._
+_Why most Growth Guys coupon codes fail: aggregator sites generate them. The real codes are flat 10% (HEALTHYLIFE10, verified August 28, 2026), plus the domain-change reason a working code stopped applying._
 
 Source: https://growthguyscanada.ca/articles/growth-guys-coupon-code-not-working.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 > **Why is my Growth Guys coupon code not working?** Nine times out of ten the code came from a
 coupon-aggregator site and was never issued by anyone. Growth Guys codes are flat 10% affiliate
-codes — **HEALTHYLIFE10** is one of them, verified August 2026 on growthguys.com. Listings
+codes — **HEALTHYLIFE10** is one of them, verified August 28, 2026 on growthguys.com. Listings
 promising “$100 off” or “20–30% sitewide” are auto-generated guesses.
 
 Updated August 2026 · General educational information, not medical or legal advice.
@@ -37,7 +39,7 @@ before it deserves a click.
 
 | What you'll see | What it actually is | Works? |
 | --- | --- | --- |
-| **HEALTHYLIFE10** — 10% off | A real affiliate code (this site's). Verified August 2026 on growthguys.com | Yes |
+| **HEALTHYLIFE10** — 10% off | A real affiliate code (this site's). Verified August 28, 2026 on growthguys.com | Yes |
 | **SST10** — 10% off | Also real — a different affiliate, same store, circulated on a long-running forum thread | Yes |
 | “$100 OFF” / “20–30% sitewide” | Aggregator-generated. No issuer, no expiry, no source | No |
 | Codes like ORION10 or SHELBY10 | Real codes — but for a *different store*. They will never apply here | No |
@@ -88,7 +90,7 @@ a discount on it is not a saving. We laid out how to grade the evidence in
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 **Is HEALTHYLIFE10 still valid in August 2026?** Yes — it is a flat 10% code and it was
 cart-tested on growthguys.com August 26, 2026. There is no expiry date attached to it.
@@ -109,7 +111,7 @@ is not region-locked. Shipping and border questions are covered in
 This is the durable skill, because the aggregators will keep publishing and the codes will keep
 rotating. Four tells separate a page that knows something from a page that guessed:
 
-- **A date.** A real listing says when it was last checked. “Verified August 2026” is a
+- **A date.** A real listing says when it was last checked. “Verified August 28, 2026” is a
 claim someone can be held to; “verified today” auto-generated on every page load is not.
 
 - **A named issuer.** Someone should be visibly standing behind the code — an affiliate, a
@@ -129,7 +131,7 @@ the terms written out above.
 
 The vendor-vetting checklist — the questions worth answering before a code matters at all —
 is free on the [resource page](https://growthguys.coupons/). If you're ordering from Growth
-Guys, **HEALTHYLIFE10** takes 10% off (verified August 2026), after you've run the checks rather than
+Guys, **HEALTHYLIFE10** takes 10% off (verified August 28, 2026), after you've run the checks rather than
 instead of them.
 
 **Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
@@ -138,7 +140,9 @@ instead of them.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

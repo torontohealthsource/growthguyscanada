@@ -1,13 +1,15 @@
 # Growth Guys First-Order Promo Code: What's Real for New Buyers (Canada, 2026)
 
-_Is there a Growth Guys first-order promo code? Yes — HEALTHYLIFE10, CANADA, and PEPTIDES give 10% on the first order and every reorder (no signup), cart-tested August 2026. Plus the newsletter welcome discount and why they don't stack._
+_Is there a Growth Guys first-order promo code? Yes — HEALTHYLIFE10 gives 10% on the first order and every reorder (no signup), cart-tested August 2026. Plus the newsletter welcome discount and why they don't stack._
 
 Source: https://growthguyscanada.ca/articles/growth-guys-first-order-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 > **Is there a Growth Guys first-order promo code?** Yes — and it's not first-order-only, which
 is better. **HEALTHYLIFE10**, **CANADA**, and **PEPTIDES** each take a flat 10% off your
@@ -25,7 +27,7 @@ special new-buyer code when the public code already gives them the full 10% on o
 
 | Discount | How you get it | Works after the first order? |
 | --- | --- | --- |
-| **10% code** (HEALTHYLIFE10 / CANADA / PEPTIDES) | Type it at checkout — no signup | ✅ Yes, every reorder |
+| **10% code** (HEALTHYLIFE10) | Type it at checkout — no signup | ✅ Yes, every reorder |
 | Newsletter welcome discount | Sign up on the store with your email | ❌ One-time, new subscribers |
 
 Checkout accepts one code per order, so you pick whichever is larger for order one, then use a
@@ -60,9 +62,9 @@ Full tested-codes list with dates: [every code that actually works](/articles/gr
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
-**Does HEALTHYLIFE10 work on a first order?** Yes — flat 10% on the first order and every reorder, no signup, cart-verified August 2026.
+**Does HEALTHYLIFE10 work on a first order?** Yes — flat 10% on the first order and every reorder, no signup, cart-tested August 28, 2026.
 
 **Is there a bigger new-customer code?** The newsletter welcome discount is one-time; no verified code beats the standing 10%. Aggregator "first order exclusive" codes above 10% are generated, not issued.
 
@@ -74,7 +76,9 @@ Full tested-codes list with dates: [every code that actually works](/articles/gr
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 

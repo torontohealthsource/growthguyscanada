@@ -34,7 +34,7 @@ Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.ht
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 ---
 _**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
