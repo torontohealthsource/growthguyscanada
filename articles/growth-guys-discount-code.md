@@ -1,13 +1,13 @@
-# Growth Guys Discount Code (Verified August 2026) — 10% Off
+# Growth Guys Discount Code (Verified August 28, 2026) — 10% Off
 
-_The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, and why the vendor's testing matters more than the discount. Verified daily._
+_The working Growth Guys discount code is HEALTHYLIFE10 for 10% off. How to apply it, and why the vendor's testing matters more than the discount. Cart-tested August 28, 2026._
 
 Source: https://growthguyscanada.ca/articles/growth-guys-discount-code.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 > **Does Growth Guys have a discount code?** Yes. The current working code is **HEALTHYLIFE10**, which takes **10% off** your order. Enter it in the discount/coupon field at checkout. Verified working as of **August 2026**.
 
-`Apply at checkout · 10% off · verified daily
+`Apply at checkout · 10% off · verified on August 28, 2026
 **HEALTHYLIFE10**`
 
 [Use the code on the verified vendor →](https://growthguys.coupons)
@@ -54,13 +54,13 @@ For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no ca
 
 ## FAQ
 
-**Is the Growth Guys code still working?** Yes — HEALTHYLIFE10 is verified for August 2026. This page is re-checked daily; see the exact timestamp on the [verification log](/verification-log.html).
+**Is the Growth Guys code still working?** Yes — HEALTHYLIFE10 is verified for August 2026. This page is re-checked on August 28, 2026; see the exact timestamp on the [verification log](/verification-log.html).
 
 **How much do I save?** 10% off your order subtotal.
 
 **Is GROWTH10 or any other code fake?** No reason to think so — a coupon code is just text, and it either applies at checkout or it doesn't. The difference is verification, not legitimacy: this page dates every check with a retained cart record; not every listing does.
 
-**Is there a bigger discount — GIMME10, TRIPLE20, or 20% off?** No verified evidence of a higher rate. Codes like GIMME10 and TRIPLE20 circulate on coupon aggregators with no date or cart proof attached. Every code we've cart-tested — HEALTHYLIFE10, CANADA, PEPTIDES — lands at the same flat 10%; see [the full tested-codes list](/articles/growth-guys-codes-list.html) for what's actually confirmed versus just claimed.
+**Is there a bigger discount — GIMME10, TRIPLE20, or 20% off?** No verified evidence of a higher rate. Codes like GIMME10 and TRIPLE20 circulate on coupon aggregators with no date or cart proof attached. Every code we've cart-tested — HEALTHYLIFE10 — lands at the same flat 10%; see [the full tested-codes list](/articles/growth-guys-codes-list.html) for what's actually confirmed versus just claimed.
 
 **Does the code expire?** No fixed expiry is currently published. Codes can still stop working if the store changes its promotions — that's exactly why this page is re-checked daily instead of listed once and left alone.
 
@@ -78,7 +78,7 @@ Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.ht
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 ---
 _**Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 23, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).

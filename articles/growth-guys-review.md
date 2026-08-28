@@ -25,14 +25,14 @@ A good vendor doesn't excuse you from diligence. Run the same checks I'd run on 
 
 ## The discount
 
-`Apply at checkout · 10% off · verified August 2026
+`Apply at checkout · 10% off · verified August 28, 2026
 **HEALTHYLIFE10**`
 
 [Use the code →](https://growthguys.coupons)
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 **Is Growth Guys legit?** On the factors you can actually verify — independent third-party testing (Janoshik), domestic Canadian shipping, and transparency that shows results rather than hand-waving — it holds up better than most. Always run your own COA check before buying from any vendor.
 

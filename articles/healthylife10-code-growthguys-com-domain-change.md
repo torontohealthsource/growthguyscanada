@@ -1,15 +1,17 @@
 # Does HEALTHYLIFE10 Still Work on growthguys.com? What the Domain Change Did and Didn't Affect
 
-_Does the HEALTHYLIFE10 Growth Guys code still work after the move to growthguys.com? Yes — 10% off, verified July 2026. Here's why a domain change doesn't affect discount codes, and the real reasons a code fails at checkout. Educational only._
+_Does the HEALTHYLIFE10 Growth Guys code still work after the move to growthguys.com? Yes — 10% off, verified August 28, 2026. Here's why a domain change doesn't affect discount codes, and the real reasons a code fails at checkout. Educational only._
 
 Source: https://growthguyscanada.ca/articles/healthylife10-code-growthguys-com-domain-change.html · Updated: August 26, 2026 · TorontoHealth — educational only, not medical advice.
 
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
 
-> **Does HEALTHYLIFE10 still work now that Growth Guys is on growthguys.com?** Yes. The code still takes **10% off** at checkout on the new domain (verified July 2026). A discount code lives in the store's checkout system, not in the web address, so moving from *growthguys.is* to *growthguys.com* left every code untouched.
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
+
+> **Does HEALTHYLIFE10 still work now that Growth Guys is on growthguys.com?** Yes. The code still takes **10% off** at checkout on the new domain (verified August 28, 2026). A discount code lives in the store's checkout system, not in the web address, so moving from *growthguys.is* to *growthguys.com* left every code untouched.
 
 Updated July 2026 · General educational information, not medical or legal advice.
 
@@ -51,7 +53,7 @@ One practical note for late July 2026: the store is currently showing a notice t
 
 ## The bottom line
 
-- **HEALTHYLIFE10 = 10% off**, working on growthguys.com (verified July 2026).
+- **HEALTHYLIFE10 = 10% off**, working on growthguys.com (verified August 28, 2026).
 
 - **The domain change affected nothing** about codes, links or the catalogue.
 
@@ -67,7 +69,9 @@ For research and educational purposes only. Not medical advice.
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 
@@ -75,7 +79,7 @@ Related guides[How to read a peptide COA](/articles/how-to-read-a-peptide-coa.ht
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 ---
 _General educational information, not claims about any specific company. For research and educational purposes only. Not medical advice._

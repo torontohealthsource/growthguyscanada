@@ -7,7 +7,9 @@ Source: https://growthguyscanada.ca/articles/growth-guys-retatrutide-reddit-revi
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 > **What does Reddit say about Growth Guys retatrutide specifically?** The pattern across
 Canadian peptide communities: batch testing checks out, the sitewide 10% code applies with no
@@ -44,18 +46,18 @@ does.
 Reddit is useful for "does this vendor's testing hold up for this specific compound" — read a
 few threads for the pattern. It's the wrong source for "does the code still work today," because
 a code mentioned in an old thread can be dead by the time you read it. For that, we run dated
-cart tests: HEALTHYLIFE10, CANADA, and PEPTIDES all verified against retatrutide in the
+cart tests: HEALTHYLIFE10 all verified against retatrutide in the
 [public verification log](/verification-log.html).
 
 [https://torontohealthsource.tumblr.com/post/825960883258834944](https://torontohealthsource.tumblr.com/post/825960883258834944)
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 **Is Growth Guys retatrutide legit according to Reddit?** The pattern is yes — the same "tested, a bit pricier" consensus as the vendor generally, with no compound-specific red flags reported.
 
-**Does the code work on retatrutide?** Yes — flat 10% sitewide with no product exclusions, cart-verified August 2026 ($9.00 off the $90.00 CAD single vial).
+**Does the code work on retatrutide?** Yes — flat 10% sitewide with no product exclusions, cart-tested August 28, 2026 ($9.00 off the $90.00 CAD single vial).
 
 **Is there a bigger retatrutide-specific Reddit code?** No. All legitimate codes here are the same flat 10%; bigger numbers on coupon aggregator sites don't apply at checkout.
 

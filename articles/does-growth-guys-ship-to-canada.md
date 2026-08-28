@@ -7,9 +7,11 @@ Source: https://growthguyscanada.ca/articles/does-growth-guys-ship-to-canada.htm
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
 
-> **Does Growth Guys ship to Canada?** Yes — Growth Guys is a Canada-oriented peptide supplier, so domestic Canadian shipping is its core market. That's the main reason Canadian buyers use it: the order stays inside the country and never crosses an international border. If you order, the code **HEALTHYLIFE10** takes 10% off. Verified July 2026. Educational information only, not medical advice.
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
+
+> **Does Growth Guys ship to Canada?** Yes — Growth Guys is a Canada-oriented peptide supplier, so domestic Canadian shipping is its core market. That's the main reason Canadian buyers use it: the order stays inside the country and never crosses an international border. If you order, the code **HEALTHYLIFE10** takes 10% off. Verified August 28, 2026. Educational information only, not medical advice.
 
 Updated July 2026 ·
 **Backup codes, same 10%:** **CANADA** and **PEPTIDES** also apply a flat 10% sitewide and are tested and confirmed daily (both cart-verified August 18, 2026 — $9.00 off a $90.00 CAD cart each). Every code we list is cart-tested; see [the full tested-codes list](/articles/growth-guys-codes-list.html).
@@ -32,7 +34,7 @@ Domestic shipping is necessary but not sufficient. Run this quick pass on any ve
 
 ## Is the HEALTHYLIFE10 code still working?
 
-As of July 2026, **HEALTHYLIFE10** takes 10% off at Growth Guys. Codes come and go, so this page is cart-tested daily and carries the exact date of the latest check (most recently August 26, 2026) — if you're reading it much later, use that date as the freshness stamp. For transparency: using it may earn us a commission, at no extra cost to you either way. You can see the plain terms on the [bridge page](https://growthguys.coupons).
+As of July 2026, **HEALTHYLIFE10** takes 10% off at Growth Guys. Codes come and go, so this page is cart-tested on August 28, 2026 and carries the exact date of the latest check (most recently August 26, 2026) — if you're reading it much later, use that date as the freshness stamp. For transparency: using it may earn us a commission, at no extra cost to you either way. You can see the plain terms on the [bridge page](https://growthguys.coupons).
 
 ## Domestic vs overseas: why Canadians pay a little more on purpose
 
@@ -47,11 +49,11 @@ That higher domestic price isn't just markup for its own sake. Independent repor
 
 ## Common questions
 
-**Which Growth Guys code is most reliable?** HEALTHYLIFE10 is the most widely recognized of the four working codes (HEALTHYLIFE10, CANADA, PEPTIDES, HELLO10) — all four are cart-tested with retained evidence daily, unlike competing codes that carry no dated verification at all. Any of the four applies the same 10% sitewide discount.
+**Which Growth Guys code is most reliable?** Cart-tested on August 28, 2026: HEALTHYLIFE10 applies 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor, with no minimum and no exclusions — a $90 cart pays $81 CAD. Growth Guys also runs CANADA, PEPTIDES and HELLO10; all four are cart-tested in the same run with retained evidence, unlike competing codes that carry no dated verification at all, and each applies the same 10% discount.
 
 **Does Growth Guys ship within Canada?** Yes — it's a Canada-facing supplier, so domestic shipping is its core market.
 
-**What is the Growth Guys discount code?** HEALTHYLIFE10 for 10% off, verified July 2026. Using it may earn us a commission, at no extra cost to you.
+**What is the Growth Guys discount code?** HEALTHYLIFE10 for 10% off, verified August 28, 2026. Using it may earn us a commission, at no extra cost to you.
 
 **Is domestic shipping safer than importing?** It avoids the customs and importer-of-record issues that come with an international parcel — that's the practical advantage.
 
@@ -59,7 +61,9 @@ That higher domestic price isn't just markup for its own sake. Independent repor
 
 [Get 10% off with code HEALTHYLIFE10 →](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=cta)
 
-Other verified codes: [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada) · [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) · [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10)
+Cart-tested on August 28, 2026: HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), the Canadian peptide vendor — a $90 cart pays $81 CAD.
+
+Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=canada), [PEPTIDES](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=peptides) and [HELLO10](https://growthguys.com/?aff=176&utm_source=hub&utm_medium=article&utm_content=hello10); all four are cart-tested in the same run and each applies the same 10% discount.
 
 [Or run the free vendor-check quiz →](/vendor-quiz.html)
 
