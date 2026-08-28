@@ -67,7 +67,7 @@
   <h2>What exactly gets tested</h2>
   <div class="step"><b>1. A fresh guest cart is created.</b> No account, no saved payment method, no shipping address — just the store's public cart API.</div>
   <div class="step"><b>2. A real product is added.</b> The item rotates — cheap, mid, and high-value listings across the week — so the result isn't dependent on one product category.</div>
-  <div class="step"><b>3. One code is applied.</b> HEALTHYLIFE10, CANADA, or PEPTIDES.</div>
+  <div class="step"><b>3. One code is applied.</b> HEALTHYLIFE10.</div>
   <div class="step"><b>4. The discount is checked.</b> A PASS requires the discount to equal exactly 10% of the subtotal at that timestamp.</div>
   <div class="step"><b>5. The raw response is retained.</b> Not a rendered screenshot — the store's actual cart API JSON, linked from the log so anyone can inspect it.</div>
   <p>No order is ever submitted and no payment method is ever entered at any step. This is an
