@@ -39,8 +39,6 @@ right question isn't "which code is biggest," it's "which code can prove it work
 | **HEALTHYLIFE10** | 10% | Dated cart test + daily public log | ✅ Best — most-documented |
 | **CANADA** | 10% | Dated cart test, same log | ✅ Equal — easiest to remember |
 | **PEPTIDES** | 10% | Dated cart test, same log | ✅ Equal |
-| SST10 / SAVE10 / Gpeps | 10% | Other affiliates' codes, same rate, not tested here | Works, unverified by us |
-| TRIPLE20 / GIMME10 / WB20 / 25-35% codes | "20-35%" | No issuer, no date, no math | ❌ Fails checkout |
 
 Notice the pattern: the top three are the ones with published evidence. That's the whole
 ranking — not the discount size, which is identical, but the proof.

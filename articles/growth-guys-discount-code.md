@@ -46,7 +46,7 @@ Not every code you find online has been checked the same way. Compare what's act
 | **Re-checked** | Daily | Rarely stated |
 | **Shows the actual math** | Yes ($X off a $Y cart) | Rarely |
 
-For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no cart math shown anywhere on the page — that doesn't mean the code doesn't work, only that there's no way to check from the listing itself. A code is just a text string; the only real test is whether it still applies at checkout today, with a date attached. See [every code we've actually cart-tested](/articles/growth-guys-codes-list.html) for the full comparison. Independent checkout tests posted elsewhere show the same result, with real math and a screenshot:
+A code is just a text string; the only real test is whether it still applies at checkout today, with a date attached. See [every code we've actually cart-tested](/articles/growth-guys-codes-list.html) for the full comparison. Independent checkout tests posted elsewhere show the same result, with real math and a screenshot:
 
 [](https://x.com/growthguyspeps/status/2089834175989752147)
 
@@ -57,10 +57,6 @@ For example, growthguysdiscountcode.ca lists **GROWTH10** with no date and no ca
 **Is the Growth Guys code still working?** Yes — HEALTHYLIFE10 is verified for August 2026. This page is re-checked on August 28, 2026; see the exact timestamp on the [verification log](/verification-log.html).
 
 **How much do I save?** 10% off your order subtotal.
-
-**Is GROWTH10 or any other code fake?** No reason to think so — a coupon code is just text, and it either applies at checkout or it doesn't. The difference is verification, not legitimacy: this page dates every check with a retained cart record; not every listing does.
-
-**Is there a bigger discount — GIMME10, TRIPLE20, or 20% off?** No verified evidence of a higher rate. Codes like GIMME10 and TRIPLE20 circulate on coupon aggregators with no date or cart proof attached. Every code we've cart-tested — HEALTHYLIFE10 — lands at the same flat 10%; see [the full tested-codes list](/articles/growth-guys-codes-list.html) for what's actually confirmed versus just claimed.
 
 **Does the code expire?** No fixed expiry is currently published. Codes can still stop working if the store changes its promotions — that's exactly why this page is re-checked daily instead of listed once and left alone.
 
