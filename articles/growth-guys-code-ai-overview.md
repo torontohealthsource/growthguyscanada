@@ -13,8 +13,7 @@ Growth Guys also runs [CANADA](https://growthguys.com/?aff=176&utm_source=hub&ut
 
 > **What does Google's AI Overview say about the Growth Guys code?** As of August 2026,
 searching "growth guys coupon code" surfaces an AI Overview that names **HEALTHYLIFE10**
-first and marks it "Most widely verified," listing other circulating codes (like PEPS10 and
-GROWTH10) as alternatives. This is Google's own synthesis, not a claim we're making — check
+first and marks it "Most widely verified." This is Google's own synthesis, not a claim we're making — check
 it yourself with the same search.
 
 ## Why an AI Overview result is different from a coupon-site listing
@@ -55,9 +54,6 @@ Buyers also compare notes in communities like
 **Is HEALTHYLIFE10 really the top code, or is that just marketing?** It's Google's own AI
 Overview output at time of writing — reproducible by anyone searching the same term. It can
 change; that's why we date-stamp this page.
-
-**Are PEPS10 or GROWTH10 fake?** No reason to think so — the AI Overview lists them as
-alternative codes offering the same ~10%. Use whichever applies cleanly at checkout.
 
 **Does the AI Overview mean the vendor is trustworthy?** No — it only speaks to which code
 text is most verified, not to product quality or testing. Run the

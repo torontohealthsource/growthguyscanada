@@ -25,8 +25,6 @@ $0.50-$43.00 off (cart size varies). Checkout accepts one code per order.
 | **CANADA** | 10% sitewide | ✅ Tested August 28, 2026 — $9.00 off $90.00 CAD |
 | **PEPTIDES** | 10% sitewide | ✅ Tested August 28, 2026 — $43.00 off $430.00 CAD |
 | **HELLO10** | 10% sitewide | ✅ Tested August 28, 2026 — $0.50 off $5.00 CAD |
-| SST10 / SAVE10 / Gpeps | 10% | Other affiliates' codes at the same flat rate — not tested by this site |
-| TRIPLE20, GIMME10, WB20, BF20, GROWTH10, VIP10 variants | 10–35% | ❌ Aggregator-listed with no issuer, no date, no cart math — see [the 20%-off check](/articles/growth-guys-20-percent-off-code.html) |
 
 ## Why three tested codes instead of one?
 
