@@ -47,12 +47,40 @@
   footer{border-top:1px solid var(--line);margin-top:36px;padding-top:18px;color:var(--muted);font-size:.8rem}
 </style>
   <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-</head>
+<style>
+/* --- flagship hero, 2026-09-05. NAMESPACED ON PURPOSE.
+   growthguyscanada.ca is 94 pages with its own established design and its own .wrap
+   container. Every selector here is prefixed .gg- so nothing can restyle a page by
+   accident; there are no bare element selectors and no body rules. Same SEO rules as
+   the rest of the system: no scripts, no webfonts, no images, no keyframes. --- */
+.gg-hero{margin:6px 0 26px;padding:30px 0 4px;border-bottom:1px solid rgba(128,150,140,.22)}
+.gg-kicker{display:flex;align-items:center;gap:9px;font-size:.7rem;font-weight:700;
+text-transform:uppercase;letter-spacing:.13em;opacity:.72;margin:0 0 12px}
+.gg-kicker::before{content:"";width:24px;height:2px;background:currentColor;border-radius:2px}
+.gg-brandline{font-size:clamp(1.02rem,1.5vw,1.22rem);line-height:1.45;letter-spacing:-.012em;
+max-width:46ch;margin:0 0 18px;font-weight:520;opacity:.94}
+.gg-brandline b{font-weight:720}
+.gg-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(232px,300px);
+gap:30px;align-items:start;margin:20px 0 0}
+.gg-card{border:1px solid rgba(128,150,140,.28);border-radius:16px;padding:20px 22px;
+box-shadow:0 22px 52px -34px rgba(0,0,0,.45)}
+.gg-card .gg-h{display:flex;align-items:center;gap:8px;font-size:.7rem;font-weight:700;
+text-transform:uppercase;letter-spacing:.13em;opacity:.72;margin:0 0 13px}
+.gg-card dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:9px 12px;font-size:.93rem}
+.gg-card dt{opacity:.72}
+.gg-card dd{margin:0;text-align:right;font-weight:650}
+.gg-card .gg-big{font-size:1.16rem}
+.gg-card .gg-rule{grid-column:1/-1;height:1px;background:rgba(128,150,140,.24);margin:2px 0}
+.gg-badge{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:999px;
+background:rgba(46,160,102,.16);font-size:.78rem;font-weight:700}
+.gg-tick{flex:0 0 auto;width:17px;height:17px}
+@media(max-width:820px){.gg-grid{grid-template-columns:1fr}}
+</style></head>
 <body>
 <div class="wrap">
   <nav><a class="brand" href="/"><span class="dot"></span>TORONTOHEALTH</a></nav>
   <div style="font-size:.8rem;color:#9fb0a2;margin-top:12px"><a href="/" style="color:#9fb0a2">Home</a> &rsaquo; <a href="/sitemap.html" style="color:#9fb0a2">Guides</a> &rsaquo; How to Compare Canadian Peptide Vendors (Without the Marketing)<br><span style="color:#6f7f72">By <a href="https://growthguyscanada.ca/about.html#author">Alex Morgan</a>, TorontoHealth Verification Lead &middot; Updated September 5, 2026</span></div>
-  <h1>How to Compare Canadian Peptide Vendors (Without the Marketing)</h1>
+  <div class="gg-hero"><p class="gg-kicker">Canadian research peptides &middot; independently tested</p><p class="gg-brandline">Canada&rsquo;s most documented peptide source &mdash; <b>228</b> independent lab reports, a published purity floor of 93.844%, and domestic shipping.</p></div><h1>How to Compare Canadian Peptide Vendors (Without the Marketing)</h1>
 
   <div data-cta-top="1">
   <div style="margin:18px 0">
