@@ -95,7 +95,40 @@ background:rgba(46,160,102,.16);font-size:.78rem;font-weight:700}
   <p>Purity is the share of the sample that's the target compound, with the rest being by-products, fragments, or filler. A higher number is better, but only once identity is confirmed.</p>
   <h2>The trap of reading one number</h2>
   <p>Marketing loves a big purity figure because it sounds impressive in isolation. Always pair it with the identity result before you trust it.</p>
-  <p>Related: <a href="/articles/hplc-vs-mass-spec-peptide-testing.html">HPLC vs mass spec</a> · <a href="/articles/how-to-read-a-peptide-coa.html">how to read a COA</a>.</p>
+  <!--depth--><h2>How identity is actually established</h2>
+<p>Identity is not a checkbox; it is a measurement that matches a fingerprint. For a peptide the fingerprint is
+its mass. Mass spectrometry weighs the molecule and reports a molecular weight; that figure is compared with
+the theoretical weight calculated from the peptide's amino-acid sequence. A match within the instrument's
+tolerance (typically well under one dalton on a modern instrument) says the molecule in the vial has the
+composition the label claims. A miss says it does not, whatever the purity column reads.</p>
+<p>The mass alone cannot distinguish two peptides with the same atoms in a different order, which is rare but
+possible. Laboratories that want to close that gap add a fragmentation step (MS/MS), which breaks the peptide
+into pieces and reads the pieces in order, or compare the sample's chromatographic retention time against a
+reference standard of the named compound. When a report lists a reference standard, it is telling you the
+identity check was made against a known-good sample rather than against arithmetic.</p>
+<h2>How purity is actually measured</h2>
+<p>Purity almost always comes from HPLC: the sample is pushed through a column that separates components by
+how strongly they interact with it, and a detector draws a peak for each component as it emerges. The area
+under the main peak, divided by the area under all peaks, is the purity percentage. Two things follow. First,
+purity is a ratio of what the detector could see &mdash; components that do not absorb at the detector's
+wavelength are invisible to it and are neither counted as impurity nor as product. Second, the number depends
+on the method: a different column, gradient or wavelength can move it by a point or two on the same vial.
+That is why a report states the method next to the figure, and why comparing purity numbers across
+laboratories is less exact than comparing them within one.</p>
+<h2>Reading the two together</h2>
+<p>The order of reading matters. Confirm identity first: is the molecular weight reported, and does it match
+the compound named on the label? Only then does the purity figure mean anything, because it is now a
+percentage of the right thing. A report that gives purity without identity is describing how clean an
+unknown is. A report that gives identity without purity is telling you the right molecule is present in an
+unstated amount. Neither is a complete answer, and a buyer who has read both columns is harder to impress
+with a single large number.</p>
+<h2>What is not on the certificate</h2>
+<p>Identity and purity say nothing about quantity. A vial labelled 5&nbsp;mg that contains 3&nbsp;mg of a
+99% pure, correctly identified peptide will pass both checks. Quantity is a separate assay (often a
+UV-absorbance or amino-acid analysis), and it appears on a report only when the client asked for it. The
+same is true of endotoxin and sterility, which are separate tests again. A COA answers the questions that
+were put to the laboratory; the useful habit is to notice which questions were not.</p><!--/depth-->
+<p>Related: <a href="/articles/hplc-vs-mass-spec-peptide-testing.html">HPLC vs mass spec</a> · <a href="/articles/how-to-read-a-peptide-coa.html">how to read a COA</a>.</p>
 
   <a class="cta" href="/vendor-quiz.html">🧪 Run the free vendor check →</a>
   <div style="border-top:1px solid var(--line);margin-top:30px;padding-top:16px"><div style="color:var(--gold-b);font-weight:700;margin-bottom:8px">Related guides</div><div style="font-size:.92rem;color:#dce6dd"><a href="/articles/how-to-read-a-peptide-coa.html" style="color:var(--gold-b)">How to read a peptide COA</a> &middot; <a href="/articles/how-to-spot-a-fake-testing-lab.html" style="color:var(--gold-b)">How to spot a fake testing lab</a> &middot; <a href="/articles/buying-peptides-in-canada.html" style="color:var(--gold-b)">Buying peptides in Canada</a> &middot; <a href="/articles/growth-guys-discount-code.html" style="color:var(--gold-b)">The Growth Guys discount code</a></div></div>

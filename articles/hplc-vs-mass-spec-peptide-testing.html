@@ -95,7 +95,42 @@ background:rgba(46,160,102,.16);font-size:.78rem;font-weight:700}
   <p>HPLC separates a sample into its components and reports the percentage that is the target compound. It answers "how clean is it?" — but on its own it doesn't confirm the main peak is the right molecule.</p>
   <h2>Why one alone isn't enough</h2>
   <p>A high HPLC purity number on the wrong molecule is meaningless, and a confirmed identity with unknown purity is half a picture. Read both, together.</p>
-  <p>Related: <a href="/articles/coa-purity-vs-identity.html">purity vs identity on a COA</a> · <a href="/articles/how-to-read-a-peptide-coa.html">how to read a COA</a>.</p>
+  <!--depth--><h2>What HPLC actually does</h2>
+<p>High-performance liquid chromatography separates a mixture into its components. The dissolved sample is
+pumped at high pressure through a column packed with fine particles; different molecules cling to the
+packing with different strength and therefore leave the column at different times. A detector at the end
+&mdash; for peptides, usually ultraviolet absorbance at a wavelength the peptide bond absorbs &mdash; draws a
+trace of what comes out and when. Each component is a peak; the area under a peak is proportional to how
+much of that component was present. Purity is the main peak's area as a share of the total. What HPLC cannot
+do is tell you what any peak <i>is</i>. It knows that something came out at 12.4 minutes and how much; it does
+not know that the something is the peptide on the label.</p>
+<h2>What mass spectrometry actually does</h2>
+<p>Mass spectrometry weighs molecules. The sample is ionised, the ions are pushed through a field that sorts
+them by mass-to-charge ratio, and a detector records which masses arrived. For a peptide the result is a
+molecular weight, which is compared with the weight calculated from the sequence on the label. That is an
+identity test: the right molecule has the right mass, and a different molecule almost always does not.
+What mass spectrometry is poor at is quantity. Ionisation efficiency varies from molecule to molecule, so
+the size of a mass peak is not a reliable measure of how much of it was there; a report that quotes a purity
+figure &ldquo;by MS&rdquo; is usually reporting something looser than an HPLC purity.</p>
+<h2>Why you need both</h2>
+<p>Together the two instruments answer two different questions. HPLC says how clean the sample is; MS says
+what it is. A sample can be 99% clean and the wrong molecule, or the right molecule at 80% clean, and either
+instrument alone would miss one of those. This is why a complete peptide COA reads &ldquo;identity confirmed by
+MS, purity by HPLC&rdquo; and reports the method for each. The combined instrument, LC-MS, runs the
+chromatography and then weighs each peak as it emerges, so every peak in the purity trace gets an identity
+&mdash; which also answers the question HPLC alone leaves open: what were the impurities?</p>
+<h2>Reading the method line on a report</h2>
+<p>The method line tells you what was and was not measured. &ldquo;HPLC-UV, 220&nbsp;nm&rdquo; is a purity
+measurement of everything that absorbs at that wavelength; salts and water do not, and are not counted.
+&ldquo;MALDI-TOF&rdquo; or &ldquo;ESI-MS&rdquo; is an identity measurement. &ldquo;LC-MS&rdquo; is both. A
+report that lists only one of these has answered only one of the two questions, and the missing one is worth
+asking about before treating the certificate as complete.</p>
+<h2>What neither instrument tells you</h2>
+<p>Neither HPLC nor MS reports how many milligrams are in the vial, whether the contents are sterile, or
+whether endotoxin is present. Those are separate assays. A high purity from HPLC and a matching mass from MS
+describe the material's composition, not its amount or its microbiological state, and a vendor's testing
+claim is only as broad as the assays that were actually run.</p><!--/depth-->
+<p>Related: <a href="/articles/coa-purity-vs-identity.html">purity vs identity on a COA</a> · <a href="/articles/how-to-read-a-peptide-coa.html">how to read a COA</a>.</p>
 
   <a class="cta" href="/vendor-quiz.html">🧪 Run the free vendor check →</a>
   <div style="border-top:1px solid var(--line);margin-top:30px;padding-top:16px"><div style="color:var(--gold-b);font-weight:700;margin-bottom:8px">Related guides</div><div style="font-size:.92rem;color:#dce6dd"><a href="/articles/how-to-read-a-peptide-coa.html" style="color:var(--gold-b)">How to read a peptide COA</a> &middot; <a href="/articles/how-to-spot-a-fake-testing-lab.html" style="color:var(--gold-b)">How to spot a fake testing lab</a> &middot; <a href="/articles/buying-peptides-in-canada.html" style="color:var(--gold-b)">Buying peptides in Canada</a> &middot; <a href="/articles/growth-guys-discount-code.html" style="color:var(--gold-b)">The Growth Guys discount code</a></div></div>
