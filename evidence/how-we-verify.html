@@ -1,0 +1,57 @@
+<!doctype html><html lang="en-CA"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>How we verify — the cart test protocol | Toronto Health Source</title><meta name="description" content="The exact steps of the automated cart test behind every figure we publish, the basket values it uses, and the things the method cannot establish."><link rel="canonical" href="https://growthguyscanada.ca/evidence/how-we-verify.html"><style>:root{--ink:#1a1a1a;--mut:#666;--line:#e5e5e5;--bg:#fff;--accent:#0b5a3f}
+*{box-sizing:border-box}body{margin:0;font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+color:var(--ink);background:var(--bg)}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px 72px}
+nav.top{border-bottom:1px solid var(--line);margin-bottom:34px}
+nav.top div{max-width:760px;margin:0 auto;padding:14px 20px;display:flex;flex-wrap:wrap;gap:16px;align-items:center}
+nav.top b{margin-right:8px}nav.top a{color:var(--accent);text-decoration:none;font-size:.92rem}
+h1{font-size:1.72rem;line-height:1.25;margin:28px 0 10px}
+h2{font-size:1.16rem;margin:34px 0 10px;padding-top:18px;border-top:1px solid var(--line)}
+h3{font-size:1rem;margin:22px 0 6px}
+p,li{margin:0 0 14px}a{color:var(--accent)}
+.lede{font-size:1.06rem;color:#333}
+table{border-collapse:collapse;width:100%;font-size:.9rem;margin:0 0 18px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--mut);font-size:.82rem;text-transform:uppercase;letter-spacing:.03em}
+code{font:.86em/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;background:#f6f6f6;padding:1px 5px;border-radius:3px;
+word-break:break-all}
+.limits{background:#fbfbfb;border:1px solid var(--line);border-left:3px solid #b00;padding:16px 18px;margin:22px 0}
+.limits h3{margin-top:0}
+footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);color:var(--mut);font-size:.84rem}
+.mut{color:var(--mut)}.small{font-size:.86rem}</style></head><body><nav class="top"><div><b>Evidence</b><a href="/evidence/">Overview</a><a href="/evidence/how-we-verify.html">Protocol</a><a href="/evidence/ledger.html">Ledger</a><a href="/evidence/lab-reports.html">Lab reports</a><a href="/evidence/corrections.html">Corrections</a><a href="/">Main site</a></div></nav><div class="wrap"><h1>How we verify</h1><p class="lede">The same test runs unattended every day against the live store. This is what it does, in order, and what it deliberately does not do.</p>
+<h2>The procedure</h2>
+<ol>
+<li>A guest cart is opened at growthguys.com. No account is used and none is created.</li>
+<li>A product is selected from a rotating pool, so the basket value differs between runs.
+    A code that worked only at one price point would be caught rather than hidden.</li>
+<li>HEALTHYLIFE10 is entered at the cart stage, before any payment step.</li>
+<li>The subtotal, the discount line and the resulting total are read back from the cart.</li>
+<li>The reading is written to the record with its timestamp, and chained to the previous
+    entry.</li>
+<li>The cart is cleared. No order is submitted.</li>
+</ol>
+
+<h2>Why the basket changes every run</h2>
+<p>A single repeated cart value proves only that the code works on that value. Rotating the
+product means a minimum-purchase threshold, a category exclusion or a per-product rule
+would surface as a failed test rather than never being exercised. The ledger therefore
+contains the whole range of values tested, not a chosen one.</p>
+
+<h2>Failures are published</h2>
+<p>A test that does not return the stated discount is written to the record the same way a
+passing one is. A log that only ever shows passes is not evidence that a code works; it is
+evidence that failures are not being published.</p>
+
+<div class="limits">
+<h3>What this method cannot tell you</h3>
+<ul>
+<li>Nothing about fulfilment, delivery or returns — the test stops before payment.</li>
+<li>Nothing about the products themselves. Composition is covered by the
+    <a href="/evidence/lab-reports.html">assay reports</a>, and composition is not efficacy.</li>
+<li>Nothing about prices in other currencies, or taxes, which depend on a delivery address
+    the test never supplies.</li>
+<li>Nothing about whether the vendor will honour the code in future. The record is dated
+    because it describes the past.</li>
+</ul>
+</div>
+<footer>Published by Toronto Health Source. Every figure here is produced by an automated guest-cart test against growthguys.com, or read from a third-party laboratory report that resolves on that laboratory&rsquo;s own domain. No order is ever submitted and no payment details are entered. Affiliate disclosure: we earn a commission if a reader uses HEALTHYLIFE10. For research and educational purposes only. Not medical advice.</footer></div></body></html>

@@ -1,0 +1,76 @@
+<!doctype html><html lang="en-CA"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Evidence — 111 dated cart tests, hash-chained | Toronto Health Source</title><meta name="description" content="Every HEALTHYLIFE10 cart test we have run, 111 of them across 37 days, chained so the series cannot be rewritten. Plus 239 third-party assay reports and what none of it establishes."><link rel="canonical" href="https://growthguyscanada.ca/evidence/"><style>:root{--ink:#1a1a1a;--mut:#666;--line:#e5e5e5;--bg:#fff;--accent:#0b5a3f}
+*{box-sizing:border-box}body{margin:0;font:16px/1.65 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
+color:var(--ink);background:var(--bg)}
+.wrap{max-width:760px;margin:0 auto;padding:0 20px 72px}
+nav.top{border-bottom:1px solid var(--line);margin-bottom:34px}
+nav.top div{max-width:760px;margin:0 auto;padding:14px 20px;display:flex;flex-wrap:wrap;gap:16px;align-items:center}
+nav.top b{margin-right:8px}nav.top a{color:var(--accent);text-decoration:none;font-size:.92rem}
+h1{font-size:1.72rem;line-height:1.25;margin:28px 0 10px}
+h2{font-size:1.16rem;margin:34px 0 10px;padding-top:18px;border-top:1px solid var(--line)}
+h3{font-size:1rem;margin:22px 0 6px}
+p,li{margin:0 0 14px}a{color:var(--accent)}
+.lede{font-size:1.06rem;color:#333}
+table{border-collapse:collapse;width:100%;font-size:.9rem;margin:0 0 18px}
+th,td{text-align:left;padding:7px 10px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--mut);font-size:.82rem;text-transform:uppercase;letter-spacing:.03em}
+code{font:.86em/1.4 ui-monospace,SFMono-Regular,Menlo,monospace;background:#f6f6f6;padding:1px 5px;border-radius:3px;
+word-break:break-all}
+.limits{background:#fbfbfb;border:1px solid var(--line);border-left:3px solid #b00;padding:16px 18px;margin:22px 0}
+.limits h3{margin-top:0}
+footer{margin-top:44px;padding-top:18px;border-top:1px solid var(--line);color:var(--mut);font-size:.84rem}
+.mut{color:var(--mut)}.small{font-size:.86rem}</style></head><body><nav class="top"><div><b>Evidence</b><a href="/evidence/">Overview</a><a href="/evidence/how-we-verify.html">Protocol</a><a href="/evidence/ledger.html">Ledger</a><a href="/evidence/lab-reports.html">Lab reports</a><a href="/evidence/corrections.html">Corrections</a><a href="/">Main site</a></div></nav><div class="wrap"><h1>The evidence behind every figure we publish</h1><p class="lede">We publish three things and nothing else: a dated record of every cart test we run, the third-party laboratory reports for the products those carts contain, and a list of the times we have been wrong. This page is the index to all three, and to the limits of what they can tell you.</p>
+<h2>What is here</h2>
+<table>
+<tr><th>Record</th><th>What it contains</th><th>How it can be checked</th></tr>
+<tr><td><a href="/evidence/ledger.html">Cart ledger</a></td>
+    <td>111 tests across 37 days, 2026-08-30 to 2026-10-05. 111 returned the
+        stated discount.</td>
+    <td>Each entry is hash-chained to the one before it. Recompute any hash yourself from
+        the published canonical record.</td></tr>
+<tr><td><a href="/evidence/lab-reports.html">Assay reports</a></td>
+    <td>239 reports, 178 stating a
+        purity figure, average 99.03%.</td>
+    <td>Every report resolves on Janoshik Analytical&rsquo;s own portal,
+        not as a file on a seller&rsquo;s server.</td></tr>
+<tr><td><a href="/evidence/corrections.html">Corrections</a></td>
+    <td>Errors we published and then fixed, with dates.</td>
+    <td>Entries are never removed, only added to.</td></tr>
+<tr><td><a href="/evidence/how-we-verify.html">Protocol</a></td>
+    <td>Exactly what the test does, step by step.</td>
+    <td>Includes what the method cannot establish.</td></tr>
+</table>
+
+<h2>Why the chain matters more than a screenshot</h2>
+<p>A screenshot shows that something appeared on a screen once. It cannot show that the
+record was not edited afterwards, and it cannot be recomputed by a reader. Each entry in
+our ledger is a SHA-256 hash of the previous entry&rsquo;s hash joined to that
+entry&rsquo;s canonical record. Changing any figure in any earlier row changes that
+row&rsquo;s hash, and therefore every hash after it, which is visible to anyone who
+recomputes the chain. That is the difference between an image of evidence and evidence.</p>
+<p>The canonical record and both hashes are printed for every entry, so the check needs
+nothing from us beyond the page itself.</p>
+
+<div class="limits">
+<h3>What none of this establishes</h3>
+<ul>
+<li><b>It does not establish that the products work.</b> A purity figure is a measure of
+composition, not of effect.</li>
+<li><b>It does not establish the laboratory&rsquo;s accreditation tier.</b> We report where
+a report resolves, not what the laboratory is accredited to do.</li>
+<li><b>No blind test exists.</b> Nobody has bought this vendor&rsquo;s product anonymously
+and sent it for independent testing — not us, and not for any vendor in this category in
+Canada.</li>
+<li><b>The cart test stops before payment.</b> No identity, address or payment details are
+entered and no order is submitted, so it says nothing about fulfilment, shipping or
+returns.</li>
+<li><b>We are an affiliate.</b> We earn a commission when a reader uses HEALTHYLIFE10. That is
+a reason to check our figures rather than take them, which is why they are published in a
+form that can be checked.</li>
+</ul>
+</div>
+
+<h2>The code these records concern</h2>
+<p>HEALTHYLIFE10 takes 10% off sitewide at Growth Guys (growthguys.com), with no minimum
+purchase and no product exclusions. Every figure above is a test of that claim, including
+the tests that did not pass.</p>
+<footer>Published by Toronto Health Source. Every figure here is produced by an automated guest-cart test against growthguys.com, or read from a third-party laboratory report that resolves on that laboratory&rsquo;s own domain. No order is ever submitted and no payment details are entered. Affiliate disclosure: we earn a commission if a reader uses HEALTHYLIFE10. For research and educational purposes only. Not medical advice.</footer></div></body></html>
