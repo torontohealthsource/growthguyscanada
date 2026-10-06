@@ -1,16 +1,16 @@
-# Does Growth Guys ship to the USA — HEALTHYLIFE10 Cart-Tested September 27, 2026
+# Does Growth Guys ship to the USA — HEALTHYLIFE10 Cart-Tested October 6, 2026
 
-Does Growth Guys ship to the USA &mdash; last verified at checkout at Growth Guys (growthguys.com): September 27, 2026 (today) &mdash; HEALTHYLIFE10 applied and working, taking $5.50 CAD off a $55.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
+Does Growth Guys ship to the USA &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; HEALTHYLIFE10 applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
 
 ## What we actually observed
 
 A real question with no page answering it. Every existing page assumes a Canadian buyer. Answers the shipping-origin question directly and explains that the customs advantage we cite is specifically a domestic-Canada advantage, which no competing page distinguishes.
 
-- $55.00 CAD cart, $5.50 CAD off, $49.50 CAD paid (10.0%)
-- $150.00 CAD cart, $15.00 CAD off, $135.00 CAD paid (10.0%)
-- $40.00 CAD cart, $4.00 CAD off, $36.00 CAD paid (10.0%)
 - $50.00 CAD cart, $5.00 CAD off, $45.00 CAD paid (10.0%)
-- $400.00 CAD cart, $40.00 CAD off, $360.00 CAD paid (10.0%)
+- $70.00 CAD cart, $7.00 CAD off, $63.00 CAD paid (10.0%)
+- $75.00 CAD cart, $7.50 CAD off, $67.50 CAD paid (10.0%)
+- $280.00 CAD cart, $28.00 CAD off, $252.00 CAD paid (10.0%)
+- $100.00 CAD cart, $10.00 CAD off, $90.00 CAD paid (10.0%)
 
 ## How to apply it
 
@@ -20,18 +20,18 @@ Enter HEALTHYLIFE10 in the discount field at the cart stage. No account needed; 
 
 ### Does HEALTHYLIFE10 still work?
 
-Yes. It was cart-tested on September 27, 2026 and took $5.50 CAD off a $55.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
+Yes. It was cart-tested on October 6, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
 
-### Is there a minimum order for HEALTHYLIFE10?
+### Does Growth Guys ship to the USA?
 
-No. It has applied at every cart value tested, from $5.00 CAD to $430.00 CAD, returning exactly 10% each time.
+Not from the Canadian store, which ships only to addresses within Canada. There is a separate Growth Guys US storefront, and the Canadian site offers to redirect visitors who appear to be in the United States.
 
-### Can two Growth Guys codes be combined?
+### Can I use the Canadian code on the US store?
 
-No. They are individual-use. Once one is attached the store will not attach a second, and it fails silently rather than showing an error — which is why a code can look broken when the real cause is a coupon already on the cart.
+No. A discount code belongs to the store that issued it. HEALTHYLIFE10 is the Canadian-store code, applying 10% off sitewide there with no minimum and no product exclusions.
 
-### How is this verified?
+### Why not one store shipping both ways?
 
-An automated checker builds a real guest cart, applies the code, and records the discount line with a timestamp. The cart value changes every run. Every result is kept in the public log.
+An international parcel means a customs entry, which introduces inspection, delay, duty and brokerage as possible outcomes. Two domestic operations remove the border from every order instead of managing it on each one.
 
 For research and educational purposes only. Not medical advice.

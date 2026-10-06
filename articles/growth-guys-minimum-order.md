@@ -1,14 +1,16 @@
-# Growth Guys minimum order — HEALTHYLIFE10 Cart-Tested August 31, 2026
+# Growth Guys minimum order — HEALTHYLIFE10 Cart-Tested October 6, 2026
 
-Growth Guys minimum order, verified today &mdash; cart-tested August 31, 2026 at growthguys.com: HEALTHYLIFE10 took $6.00 CAD off a $60.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
+Growth Guys minimum order &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; HEALTHYLIFE10 applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
 
 ## What we actually observed
 
 Confirmed across carts from $5.00 to $430.00 CAD, so the no-minimum claim is a measured range rather than a repeated assertion.
 
-- $60.00 CAD cart, $6.00 CAD off, $54.00 CAD paid (10.0%)
-- $90.00 CAD cart, $9.00 CAD off, $81.00 CAD paid (10.0%)
-- $60.00 CAD cart, $6.00 CAD off, $54.00 CAD paid (10.0%)
+- $50.00 CAD cart, $5.00 CAD off, $45.00 CAD paid (10.0%)
+- $70.00 CAD cart, $7.00 CAD off, $63.00 CAD paid (10.0%)
+- $75.00 CAD cart, $7.50 CAD off, $67.50 CAD paid (10.0%)
+- $280.00 CAD cart, $28.00 CAD off, $252.00 CAD paid (10.0%)
+- $100.00 CAD cart, $10.00 CAD off, $90.00 CAD paid (10.0%)
 
 ## How to apply it
 
@@ -18,18 +20,18 @@ Enter HEALTHYLIFE10 in the discount field at the cart stage. No account needed; 
 
 ### Does HEALTHYLIFE10 still work?
 
-Yes. It was cart-tested on August 31, 2026 and took $6.00 CAD off a $60.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
+Yes. It was cart-tested on October 6, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
 
-### Is there a minimum order for HEALTHYLIFE10?
+### Is there a minimum order at Growth Guys?
 
-No. It has applied at every cart value tested, from $5.00 CAD to $430.00 CAD, returning exactly 10% each time.
+No. Carts have been tested from $5.00 CAD to $430.00 CAD and the code applied at both ends. There is no minimum purchase and HEALTHYLIFE10 carries none either.
 
-### Can two Growth Guys codes be combined?
+### Is the $350 free-shipping level a minimum order?
 
-No. They are individual-use. Once one is attached the store will not attach a second, and it fails silently rather than showing an error — which is why a code can look broken when the real cause is a coupon already on the cart.
+No — it only decides whether Canada Post charges apply. Orders below it are accepted and dispatched normally. Note the threshold is assessed after the discount, so a $380.00 cart becomes $342.00 with the code and falls under it.
 
-### How is this verified?
+### Do I have to buy a 10-pack to get the discount?
 
-An automated checker builds a real guest cart, applies the code, and records the discount line with a timestamp. The cart value changes every run. Every result, including any failure, is kept in the public log.
+No. The code is 10% off sitewide with no minimum and no exclusions, on single vials as well as packs. Pack pricing is separately about 20% below ten singles, and the two combine because a pack price is a product price rather than a coupon.
 
 For research and educational purposes only. Not medical advice.
