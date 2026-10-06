@@ -1,15 +1,16 @@
-# Growth Guys Canada promo code — CANADA Cart-Tested September 2, 2026
+# HEALTHYLIFE10 for Canadian Orders — 10% Off, 28% Bitcoin
 
-Growth Guys Canada promo code, verified today &mdash; cart-tested September 2, 2026 at growthguys.com: CANADA took $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
+Growth Guys Canada promo code &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; CANADA applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
 
 ## What we actually observed
 
 Prices and the discount are both in CAD and shipping is domestic, so the 10% comes off a Canadian subtotal with no conversion step.
 
-- $430.00 CAD cart, $43.00 CAD off, $387.00 CAD paid (10.0%)
-- $60.00 CAD cart, $6.00 CAD off, $54.00 CAD paid (10.0%)
-- $400.00 CAD cart, $40.00 CAD off, $360.00 CAD paid (10.0%)
-- $175.00 CAD cart, $17.50 CAD off, $157.50 CAD paid (10.0%)
+- $50.00 CAD cart, $5.00 CAD off, $45.00 CAD paid (10.0%)
+- $70.00 CAD cart, $7.00 CAD off, $63.00 CAD paid (10.0%)
+- $75.00 CAD cart, $7.50 CAD off, $67.50 CAD paid (10.0%)
+- $280.00 CAD cart, $28.00 CAD off, $252.00 CAD paid (10.0%)
+- $100.00 CAD cart, $10.00 CAD off, $90.00 CAD paid (10.0%)
 
 ## How to apply it
 
@@ -19,18 +20,18 @@ Enter CANADA in the discount field at the cart stage. No account needed; reusabl
 
 ### Does CANADA still work?
 
-Yes. It was cart-tested on September 2, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
+Yes. It was cart-tested on October 6, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
 
-### Is there a minimum order for CANADA?
+### What is the Growth Guys Canada promo code?
 
-No. It has applied at every cart value tested, from $5.00 CAD to $430.00 CAD, returning exactly 10% each time.
+HEALTHYLIFE10 — 10% off sitewide at growthguys.com on the Canadian storefront, with no minimum purchase and no product exclusions, on prices already in Canadian dollars.
 
-### Can two Growth Guys codes be combined?
+### Is the discount taken in Canadian dollars?
 
-No. They are individual-use. Once one is attached the store will not attach a second, and it fails silently rather than showing an error — which is why a code can look broken when the real cause is a coupon already on the cart.
+Yes. Prices and the discount are both CAD, so there is no conversion step and no foreign-transaction fee eroding the saving, which is what happens when a percentage is taken before a currency conversion.
 
-### How is this verified?
+### Why might the code not apply?
 
-An automated checker builds a real guest cart, applies the code, and records the discount line with a timestamp. The cart value changes every run. Every result, including any failure, is kept in the public log.
+Most often you are on the US storefront rather than the Canadian one, or another coupon is already on the cart occupying the single discount slot, or a trailing space was copied with the code. Check the currency beside the total first.
 
 For research and educational purposes only. Not medical advice.

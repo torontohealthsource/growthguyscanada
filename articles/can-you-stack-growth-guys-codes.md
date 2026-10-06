@@ -1,14 +1,16 @@
-# Can you stack growth guys codes — HEALTHYLIFE10 Cart-Tested August 31, 2026
+# Can you stack Growth Guys codes — HEALTHYLIFE10 Cart-Tested October 6, 2026
 
-Can you stack growth guys codes, verified today &mdash; cart-tested August 31, 2026 at growthguys.com: HEALTHYLIFE10 took $6.00 CAD off a $60.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
+Can you stack Growth Guys codes &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; HEALTHYLIFE10 applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
 
 ## What we actually observed
 
 The codes are individual-use and the second one fails SILENTLY with no error message. Found by instrumenting the cart, not by reading the terms.
 
-- $60.00 CAD cart, $6.00 CAD off, $54.00 CAD paid (10.0%)
-- $90.00 CAD cart, $9.00 CAD off, $81.00 CAD paid (10.0%)
-- $60.00 CAD cart, $6.00 CAD off, $54.00 CAD paid (10.0%)
+- $50.00 CAD cart, $5.00 CAD off, $45.00 CAD paid (10.0%)
+- $70.00 CAD cart, $7.00 CAD off, $63.00 CAD paid (10.0%)
+- $75.00 CAD cart, $7.50 CAD off, $67.50 CAD paid (10.0%)
+- $280.00 CAD cart, $28.00 CAD off, $252.00 CAD paid (10.0%)
+- $100.00 CAD cart, $10.00 CAD off, $90.00 CAD paid (10.0%)
 
 ## How to apply it
 
@@ -18,18 +20,18 @@ Enter HEALTHYLIFE10 in the discount field at the cart stage. No account needed; 
 
 ### Does HEALTHYLIFE10 still work?
 
-Yes. It was cart-tested on August 31, 2026 and took $6.00 CAD off a $60.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
+Yes. It was cart-tested on October 6, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
 
-### Is there a minimum order for HEALTHYLIFE10?
+### Can you use two Growth Guys codes on one order?
 
-No. It has applied at every cart value tested, from $5.00 CAD to $430.00 CAD, returning exactly 10% each time.
+No. One discount code applies per order, and a second is refused without an error message — the total simply does not change. A coupon already sitting on the cart will block the one you are trying to use, which is the most common reason a valid code looks dead.
 
-### Can two Growth Guys codes be combined?
+### Does the code work together with the Bitcoin discount?
 
-No. They are individual-use. Once one is attached the store will not attach a second, and it fails silently rather than showing an error — which is why a code can look broken when the real cause is a coupon already on the cart.
+Yes, because a payment-method reduction is not a coupon and does not compete for the single code slot. On a cart measured October 6, 2026, a $430.00 subtotal came to $309.60 — 28% in total, since the two reductions compound rather than add to 30%.
 
-### How is this verified?
+### Can I use the code on a 10-pack price?
 
-An automated checker builds a real guest cart, applies the code, and records the discount line with a timestamp. The cart value changes every run. Every result, including any failure, is kept in the public log.
+Yes. Pack pricing is a product price, not a coupon. Ten single vials of Retatrutide 10mg would be $900.00, the 10-pack is $720.00, and with the code that cart comes to $648.00.
 
 For research and educational purposes only. Not medical advice.

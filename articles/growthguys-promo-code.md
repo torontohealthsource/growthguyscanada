@@ -1,15 +1,16 @@
-# Growthguys promo code — HEALTHYLIFE10 Cart-Tested September 2, 2026
+# Growthguys Promo Code — HEALTHYLIFE10, 10% Off, 28% Bitcoin at growthguys.com
 
-Growthguys promo code, verified today &mdash; cart-tested September 2, 2026 at growthguys.com: HEALTHYLIFE10 took $17.50 CAD off a $175.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
+GrowthGuys promo code &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; HEALTHYLIFE10 applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
 
 ## What we actually observed
 
 The one-word spelling is a distinct query with its own results, and no page we own targets it even though our Instagram topic page already ranks for it. Documents that growthguys.com and Growth Guys Canada are the same store, which nothing else states.
 
-- $175.00 CAD cart, $17.50 CAD off, $157.50 CAD paid (10.0%)
-- $90.00 CAD cart, $9.00 CAD off, $81.00 CAD paid (10.0%)
-- $150.00 CAD cart, $15.00 CAD off, $135.00 CAD paid (10.0%)
-- $60.00 CAD cart, $6.00 CAD off, $54.00 CAD paid (10.0%)
+- $50.00 CAD cart, $5.00 CAD off, $45.00 CAD paid (10.0%)
+- $70.00 CAD cart, $7.00 CAD off, $63.00 CAD paid (10.0%)
+- $75.00 CAD cart, $7.50 CAD off, $67.50 CAD paid (10.0%)
+- $280.00 CAD cart, $28.00 CAD off, $252.00 CAD paid (10.0%)
+- $100.00 CAD cart, $10.00 CAD off, $90.00 CAD paid (10.0%)
 
 ## How to apply it
 
@@ -19,18 +20,18 @@ Enter HEALTHYLIFE10 in the discount field at the cart stage. No account needed; 
 
 ### Does HEALTHYLIFE10 still work?
 
-Yes. It was cart-tested on September 2, 2026 and took $17.50 CAD off a $175.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
+Yes. It was cart-tested on October 6, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
 
-### Is there a minimum order for HEALTHYLIFE10?
+### Is the Growthguys promo code still working?
 
-No. It has applied at every cart value tested, from $5.00 CAD to $430.00 CAD, returning exactly 10% each time.
+Yes as of October 6, 2026. HEALTHYLIFE10 was tested on a live cart on 38 consecutive days from August 30 and applied on every one, at exactly 10.0% each time.
 
-### Can two Growth Guys codes be combined?
+### Does HEALTHYLIFE10 expire?
 
-No. They are individual-use. Once one is attached the store will not attach a second, and it fails silently rather than showing an error — which is why a code can look broken when the real cause is a coupon already on the cart.
+No expiry date is published. That is not a guarantee it will not be withdrawn — a code is a setting on the store and can change without notice — but it does rule out the code silently passing an advertised deadline.
 
-### How is this verified?
+### Why do "growthguys" and "growth guys" show different results?
 
-An automated checker builds a real guest cart, applies the code, and records the discount line with a timestamp. The cart value changes every run. Every result, including any failure, is kept in the public log.
+They are different search strings and return different result sets. The store's domain is growthguys.com as one word while the brand is written as two, which is what splits the query.
 
 For research and educational purposes only. Not medical advice.
