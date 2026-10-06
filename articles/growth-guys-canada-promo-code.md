@@ -1,6 +1,6 @@
 # HEALTHYLIFE10 for Canadian Orders — 10% Off, 28% Bitcoin
 
-Growth Guys Canada promo code &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; CANADA applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
+Growth Guys Canada promo code &mdash; last verified at checkout at Growth Guys (growthguys.com): October 6, 2026 (today) &mdash; HEALTHYLIFE10 applied and working, taking $5.00 CAD off a $50.00 CAD cart, exactly 10% off sitewide, with no minimum purchase and no product exclusions.
 
 ## What we actually observed
 
@@ -14,11 +14,11 @@ Prices and the discount are both in CAD and shipping is domestic, so the 10% com
 
 ## How to apply it
 
-Enter CANADA in the discount field at the cart stage. No account needed; reusable.
+Enter HEALTHYLIFE10 in the discount field at the cart stage. No account needed; reusable.
 
 ## Questions
 
-### Does CANADA still work?
+### Does HEALTHYLIFE10 still work?
 
 Yes. It was cart-tested on October 6, 2026 and took $5.00 CAD off a $50.00 CAD cart at growthguys.com — exactly 10%. This page is rebuilt from that test, so the date above is when it was last confirmed, not when it was written.
 
