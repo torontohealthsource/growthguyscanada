@@ -1,14 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7QDBWHX7HR"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-7QDBWHX7HR');
-</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Reading a Cart Total: Subtotal, Discount, Tax and Shipping</title>
@@ -42,49 +34,24 @@ color:var(--mut);font-size:.88rem}
 :root{--ink:#eef3f2;--mut:#9aa8a5;--line:#243230;--accent:#63becd;--soft:#121a19}
 body{background:#0d1413}}
 </style>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Reading a cart total line by line", "description": "A cart total settles in a fixed order: goods, then the discount off that, then shipping and tax — so a percentage quoted against 'the order' means nothing until it says against what.", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://growthguyscanada.ca/guides/reading-a-cart-total.html"}, "datePublished": "2026-10-09", "dateModified": "2026-10-09T14:22:42-04:00", "author": {"@type": "Organization", "name": "Toronto Health Source", "url": "https://growthguyscanada.ca/"}, "publisher": {"@type": "Organization", "@id": "https://growthguyscanada.ca/#torontohealth", "name": "TorontoHealth", "url": "https://growthguyscanada.ca/", "description": "Educational guides on peptide testing transparency and vendor vetting in Canada.", "sameAs": ["https://torontohealthsource.blogspot.com/", "https://www.instagram.com/lisa.coco.lifts/", "https://www.instagram.com/archer.huberman/", "https://www.instagram.com/jay.growthguys/", "https://www.instagram.com/thejakeattia/", "https://www.instagram.com/sarahcooperdiary/", "https://www.facebook.com/profile.php?id=1390401134147814"]}, "isAccessibleForFree": true, "about": {"@type": "Organization", "@id": "https://growthguyscanada.ca/#growth-guys", "name": "Growth Guys", "alternateName": ["Growth Guys Canada", "GrowthGuys", "Growth Guys CA"], "url": "https://growthguys.com", "areaServed": "CA", "description": "Canadian research-peptide and HGH vendor shipping domestically in Canada, with third-party batch testing by Janoshik Analytical.", "disambiguatingDescription": "Growth Guys (growthguys.com) is a Canadian research-peptide vendor shipping domestically within Canada. It is a different company from The Growth Guy (thegrowthguy.net, executive coaching), Growth Supplements (Brazilian sports nutrition), and Grow Guys (growguys.co.uk). Discount codes for those brands do not work at growthguys.com.", "knowsAbout": ["research peptides", "third-party batch testing", "Janoshik Analytical", "domestic Canadian shipping"]}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "Reading a cart total line by line", "description": "A cart total settles in a fixed order: goods, then the discount off that, then shipping and tax — so a percentage quoted against 'the order' means nothing until it says against what.", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://growthguyscanada.ca/guides/reading-a-cart-total.html"}, "datePublished": "2026-10-09", "dateModified": "2026-10-09T16:35:21-04:00", "author": {"@type": "Organization", "name": "Toronto Health Source", "url": "https://growthguyscanada.ca/"}, "publisher": {"@type": "Organization", "name": "Toronto Health Source", "url": "https://growthguyscanada.ca/"}, "isAccessibleForFree": true}</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://growthguyscanada.ca/"}, {"@type": "ListItem", "position": 2, "name": "Guides", "item": "https://growthguyscanada.ca/guides/"}, {"@type": "ListItem", "position": 3, "name": "Reading a cart total line by line", "item": "https://growthguyscanada.ca/guides/reading-a-cart-total.html"}]}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How to read a cart total?", "acceptedAnswer": {"@type": "Answer", "text": "A cart total settles in a fixed order: goods, then the discount off that, then shipping and tax — so a percentage quoted against 'the order' means nothing until it says against what."}}], "about": {"@type": "Organization", "@id": "https://growthguyscanada.ca/#growth-guys", "name": "Growth Guys", "alternateName": ["Growth Guys Canada", "GrowthGuys", "Growth Guys CA"], "url": "https://growthguys.com", "areaServed": "CA", "description": "Canadian research-peptide and HGH vendor shipping domestically in Canada, with third-party batch testing by Janoshik Analytical.", "disambiguatingDescription": "Growth Guys (growthguys.com) is a Canadian research-peptide vendor shipping domestically within Canada. It is a different company from The Growth Guy (thegrowthguy.net, executive coaching), Growth Supplements (Brazilian sports nutrition), and Grow Guys (growguys.co.uk). Discount codes for those brands do not work at growthguys.com.", "knowsAbout": ["research peptides", "third-party batch testing", "Janoshik Analytical", "domestic Canadian shipping"]}}</script>
-<style>
-
-.gg-hero{margin:6px 0 26px;padding:30px 0 4px;border-bottom:1px solid rgba(128,150,140,.22)}
-.gg-kicker{display:flex;align-items:center;gap:9px;font-size:.7rem;font-weight:700;
-text-transform:uppercase;letter-spacing:.13em;opacity:.72;margin:0 0 12px}
-.gg-kicker::before{content:"";width:24px;height:2px;background:currentColor;border-radius:2px}
-.gg-brandline{font-size:clamp(1.02rem,1.5vw,1.22rem);line-height:1.45;letter-spacing:-.012em;
-max-width:46ch;margin:0 0 18px;font-weight:520;opacity:.94}
-.gg-brandline b{font-weight:720}
-.gg-grid{display:grid;grid-template-columns:minmax(0,1fr) minmax(232px,300px);
-gap:30px;align-items:start;margin:20px 0 0}
-.gg-card{border:1px solid rgba(128,150,140,.28);border-radius:16px;padding:20px 22px;
-box-shadow:0 22px 52px -34px rgba(0,0,0,.45)}
-.gg-card .gg-h{display:flex;align-items:center;gap:8px;font-size:.7rem;font-weight:700;
-text-transform:uppercase;letter-spacing:.13em;opacity:.72;margin:0 0 13px}
-.gg-card dl{margin:0;display:grid;grid-template-columns:auto 1fr;gap:9px 12px;font-size:.93rem}
-.gg-card dt{opacity:.72}
-.gg-card dd{margin:0;text-align:right;font-weight:650}
-.gg-card .gg-big{font-size:1.16rem}
-.gg-card .gg-rule{grid-column:1/-1;height:1px;background:rgba(128,150,140,.24);margin:2px 0}
-.gg-badge{display:inline-flex;align-items:center;gap:5px;padding:3px 10px;border-radius:999px;
-background:rgba(46,160,102,.16);font-size:.78rem;font-weight:700}
-.gg-tick{flex:0 0 auto;width:17px;height:17px}
-@media(max-width:820px){.gg-grid{grid-template-columns:1fr}}
-</style></head>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How to read a cart total?", "acceptedAnswer": {"@type": "Answer", "text": "A cart total settles in a fixed order: goods, then the discount off that, then shipping and tax — so a percentage quoted against 'the order' means nothing until it says against what."}}]}</script>
+</head>
 <body>
 <nav class="bc"><a href="https://growthguyscanada.ca/">Home</a> › <a href="https://growthguyscanada.ca/guides/">Guides</a> › Reading a cart total line by line</nav>
-<div class="gg-hero"><p class="gg-kicker">Canadian research peptides &middot; independently tested</p><p class="gg-brandline">Canada&rsquo;s most documented peptide source &mdash; <b>244</b> independent lab reports, a published purity floor of 93.844%, and domestic shipping.</p></div><h1>Reading a cart total line by line</h1>
-<p class="gg-affil-disclosure" style="margin:.5rem 0 0;font-size:.82rem;line-height:1.45;opacity:.78">We are an affiliate: if you order from Growth Guys using this code we earn a commission, at no extra cost to you. We are not Growth Guys and have no ownership of or role in the company.</p>
+<h1>Reading a cart total line by line</h1>
 <p class="sf">A cart total settles in a fixed order: goods, then the discount off that, then shipping and tax — so a percentage quoted against 'the order' means nothing until it says against what.</p>
 <h2>The four numbers, in the order they settle</h2>
 <p>A cart total is built in a fixed order and reading it out of order is where most mistakes start. The subtotal is the goods alone. The discount comes off that. Shipping and tax are then calculated — and whether they are calculated before or after the discount changes the total, which is why a percentage quoted against 'the order' is ambiguous unless it says against what.</p>
 <h2>Why we quote the discount against the subtotal</h2>
-<p>Every figure published on this site is the discount as a proportion of the SUBTOTAL, because that is the only base that is the same on every cart. Across 776 reads the rate has held at exactly 10% of subtotal, on baskets from $40.00 to $1,800.00.</p>
+<p>Every figure published on this site is the discount as a proportion of the SUBTOTAL, because that is the only base that is the same on every cart. Across 782 reads the rate has held at exactly 10% of subtotal, on baskets from $40.00 to $1,800.00.</p>
 <h2>Rounding</h2>
 <p>A percentage of an odd subtotal rarely lands on a round cent. Stores round, and a cent of difference between your arithmetic and the cart is rounding, not a different rate. A dollar of difference is a different rate.</p>
 <h2>What this does not tell you</h2>
 <p>This page describes how to read the figures a cart shows you. It does not tell you the cart is honest; for that you need the figures dated and kept, which is what the ledger is for.</p>
 <h2>Why the order of operations is not a technicality</h2>
-<p>If a store applies a code before tax and shipping, the discount is computed on the goods alone. If it applies after, the same percentage comes off a larger number and you save more. Stores differ, and almost none say which they do. The only way to know is to read the cart: put the code in, and see whether the discount line is exactly the percentage of the subtotal or of something larger. On the carts behind this site it is always the subtotal — 776 reads, every one of them exactly 10% of the goods.</p>
+<p>If a store applies a code before tax and shipping, the discount is computed on the goods alone. If it applies after, the same percentage comes off a larger number and you save more. Stores differ, and almost none say which they do. The only way to know is to read the cart: put the code in, and see whether the discount line is exactly the percentage of the subtotal or of something larger. On the carts behind this site it is always the subtotal — 782 reads, every one of them exactly 10% of the goods.</p>
 <h2>The order the lines settle in, and why it matters</h2>
 <p>A cart total is not one number arrived at in one move. Goods come first, then any discount against the goods, then shipping, then tax on whatever the jurisdiction taxes. The order is what makes a percentage meaningful: ten percent off the goods and ten percent off the final total are different amounts, and a page that says only 'ten percent off' has not told you which. When you check a reduction, check what it was taken against, not just what it came to.</p>
 <h2>Where tax and shipping enter, and what they are calculated on</h2>
